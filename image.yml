@@ -15,8 +15,6 @@ release:
   tag: latest
   channel: stable
   tags:
-  # Only latest, ubuntu-kde and alpine-kde have been converted to the v2 layout so far; the other
-  # tags are listed for the Version Tags table and are still built from the legacy layout.
   - tag: latest
     description: XFCE Alpine *Wayland Support
   - tag: alpine-i3
