@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM ghcr.io/linuxserver/baseimage-selkies:ubunturesolute
+FROM ghcr.io/linuxserver-playground/baseimage-selkies:ubunturesolute
 
 # set version label
 ARG BUILD_DATE
