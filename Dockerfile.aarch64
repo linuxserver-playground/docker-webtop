@@ -67,7 +67,7 @@ RUN \
 
 # add local files
 COPY /root /
-COPY --from=ghcr.io/linuxserver/selkies-layers:arm64v8-alpine324-kwin / /
+COPY --from=ghcr.io/linuxserver-playground/selkies-layers:arm64v8-alpine324-kwin / /
 
 # ports and volumes
 EXPOSE 3001
