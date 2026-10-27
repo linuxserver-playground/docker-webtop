@@ -80,7 +80,7 @@ RUN \
 
 # add local files
 COPY /root /
-COPY --from=ghcr.io/linuxserver/selkies-layers:amd64-ubunturesolute-kwin / /
+COPY --from=ghcr.io/linuxserver-playground/selkies-layers:amd64-ubunturesolute-kwin / /
 
 # ports and volumes
 EXPOSE 3001
