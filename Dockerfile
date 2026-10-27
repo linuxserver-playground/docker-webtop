@@ -59,7 +59,7 @@ RUN \
 
 # add local files
 COPY /root /
-COPY --from=ghcr.io/linuxserver/selkies-layers:amd64-arch-kwin / /
+COPY --from=ghcr.io/linuxserver-playground/selkies-layers:amd64-arch-kwin / /
 
 # ports and volumes
 EXPOSE 3001
