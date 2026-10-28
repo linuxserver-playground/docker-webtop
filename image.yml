@@ -8,9 +8,13 @@ summary: |-
 upstream:
   url: https://github.com/linuxserver/docker-webtop
   version:
-    type: command
-    run: |-
-      curl -sX GET https://api.github.com/repos/linuxserver/docker-baseimage-kasmvnc/releases | jq -r 'first(.[] | select(.tag_name | startswith("arch-"))) | .tag_name' | sed 's|arch-||' | sed 's|-ls.*||'
+    type: github_release
+    repo: linuxserver-playground/docker-baseimage-selkies
+    prerelease: true
+    include: ^arch-
+    transform:
+    - regex: ^arch-|-ls.*$
+      replace: ''
 
 release:
   branch: arch-i3
