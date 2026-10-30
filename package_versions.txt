@@ -48,8 +48,8 @@ ca-certificates                                                               20
 catatonit                                                                     0.2.1-2build1                          deb                              
 certifi                                                                       2026.10.23                             python                           
 cffi                                                                          2.1.1                                  python                           
-chromium                                                                      156.0.8078.47-1xtradeb1.2604.1         deb                              
-chromium-common                                                               156.0.8078.47-1xtradeb1.2604.1         deb                              
+chromium                                                                      156.0.8078.73-1xtradeb1.2604.1         deb                              
+chromium-common                                                               156.0.8078.73-1xtradeb1.2604.1         deb                              
 click                                                                         8.5.0                                  python                           
 cloud.google.com/go/auth                                                      v0.20.0                                go-module                        
 cloud.google.com/go/auth/oauth2adapt                                          v0.2.8                                 go-module                        
@@ -188,7 +188,7 @@ github.com/bits-and-blooms/bitset                                             v1
 github.com/blang/semver                                                       v3.5.1+incompatible                    go-module       (+1 duplicate)   
 github.com/buger/goterm                                                       v1.0.4                                 go-module                        
 github.com/canonical/go-flags                                                 v0.0.0-20230403090104-105d09a091b8     go-module                        
-github.com/canonical/pebble                                                   v1.33.1-0.20260928054015-16d571fb31ca  go-module                        
+github.com/canonical/pebble                                                   v1.33.3-0.20261021134118-f036f355de35  go-module                        
 github.com/canonical/x-go                                                     v0.0.0-20230522092633-7947a7587f5b     go-module                        
 github.com/cenkalti/backoff/v5                                                v5.0.3                                 go-module       (+3 duplicates)  
 github.com/cespare/xxhash/v2                                                  v2.3.0                                 go-module       (+4 duplicates)  
@@ -530,11 +530,10 @@ golang.org/x/oauth2                                                           v0
 golang.org/x/sync                                                             v0.23.0                                go-module       (+4 duplicates)  
 golang.org/x/sync                                                             v0.24.0                                go-module                        
 golang.org/x/sys                                                              v0.46.0                                go-module                        
-golang.org/x/sys                                                              v0.47.0                                go-module                        
-golang.org/x/sys                                                              v0.48.0                                go-module       (+4 duplicates)  
+golang.org/x/sys                                                              v0.48.0                                go-module       (+5 duplicates)  
 golang.org/x/sys                                                              v0.49.0                                go-module       (+1 duplicate)   
-golang.org/x/term                                                             v0.45.0                                go-module       (+1 duplicate)   
-golang.org/x/term                                                             v0.46.0                                go-module                        
+golang.org/x/term                                                             v0.45.0                                go-module                        
+golang.org/x/term                                                             v0.46.0                                go-module       (+1 duplicate)   
 golang.org/x/term                                                             v0.47.0                                go-module                        
 golang.org/x/text                                                             v0.41.0                                go-module       (+2 duplicates)  
 golang.org/x/text                                                             v0.42.0                                go-module                        
@@ -646,7 +645,7 @@ libbinutils                                                                   2.
 libblkid                                                                      2.32.1-48.el8_10                       rpm                              
 libblkid1                                                                     2.41.3-3ubuntu2.2                      deb                              
 libbpf1                                                                       1:1.6.3-1ubuntu1                       deb                              
-libbrotli1                                                                    1.2.0-3build1                          deb                              
+libbrotli1                                                                    1.2.0-3ubuntu0.1                       deb                              
 libbsd0                                                                       0.12.2-2build2                         deb                              
 libbz2-1.0                                                                    1.0.8-6ubuntu0.1                       deb                              
 libc-bin                                                                      2.43-2ubuntu2.4                        deb                              
@@ -1056,7 +1055,7 @@ libyajl2                                                                      2.
 libzstd1                                                                      1.5.7+dfsg-3                           deb                              
 libzvbi-common                                                                0.2.44-1ubuntu2                        deb                              
 libzvbi0t64                                                                   0.2.44-1ubuntu2                        deb                              
-linux-libc-dev                                                                7.0.0-38.38                            deb                              
+linux-libc-dev                                                                7.0.0-42.42                            deb                              
 locales                                                                       2.43-2ubuntu2.4                        deb                              
 locales-all                                                                   2.43-2ubuntu2.4                        deb                              
 login                                                                         1:4.16.0-2+really2.41.3-3ubuntu2.2     deb                              
@@ -1073,8 +1072,8 @@ mesa-vulkan-drivers                                                           26
 more-itertools                                                                10.3.0                                 python                           
 more-itertools                                                                10.8.0                                 python                           
 mount                                                                         2.41.3-3ubuntu2.2                      deb                              
-msgpack                                                                       1.2.3                                  python                           
-multidict                                                                     7.1.0                                  python                           
+msgpack                                                                       1.2.4                                  python                           
+multidict                                                                     7.2.1                                  python                           
 my-test-package                                                               1.0                                    python                           
 ncurses-base                                                                  6.6+20251231-1                         deb                              
 ncurses-bin                                                                   6.6+20251231-1                         deb                              
@@ -1082,8 +1081,8 @@ ncurses-term                                                                  6.
 netbase                                                                       6.5build1                              deb                              
 netcat-openbsd                                                                1.234-1                                deb                              
 nftables                                                                      1.1.6-1                                deb                              
-nginx                                                                         1.28.3-2ubuntu1.11                     deb                              
-nginx-common                                                                  1.28.3-2ubuntu1.11                     deb                              
+nginx                                                                         1.28.3-2ubuntu1.12                     deb                              
+nginx-common                                                                  1.28.3-2ubuntu1.12                     deb                              
 nvidia-ml-py                                                                  13.615.71                              python                           
 oauthlib                                                                      3.3.1                                  python                           
 ocl-icd-libopencl1                                                            2.3.4-1                                deb                              
@@ -1126,7 +1125,7 @@ pybind11                                                                      UN
 pycparser                                                                     3.12                                   python                           
 pydantic                                                                      2.14.1                                 python                           
 pydantic-core                                                                 2.50.1                                 python                           
-pyee                                                                          15.0.0                                 python                           
+pyee                                                                          16.0.0                                 python                           
 pygobject                                                                     3.56.2                                 python                           
 pyjwt                                                                         2.10.1                                 python                           
 pylibsrtp                                                                     1.0.0                                  python                           
@@ -1190,10 +1189,9 @@ sigs.k8s.io/structured-merge-diff/v6                                          v6
 sigs.k8s.io/yaml                                                              v1.6.0                                 go-module       (+3 duplicates)  
 software-properties-common                                                    0.120.1                                deb                              
 ssl-cert                                                                      1.1.3ubuntu2                           deb                              
-starlette                                                                     1.9.0                                  python                           
+starlette                                                                     1.10.0                                 python                           
 stdlib                                                                        go1.26.10                              go-module       (+4 duplicates)  
-stdlib                                                                        go1.27.1                               go-module                        
-stdlib                                                                        go1.27.3                               go-module       (+3 duplicates)  
+stdlib                                                                        go1.27.3                               go-module       (+4 duplicates)  
 stterm                                                                        0.9.3-1                                deb                              
 sudo                                                                          1.9.17p2-1ubuntu3.2                    deb                              
 sudo-common                                                                   1.2ubuntu                              deb                              
