@@ -1454,7 +1454,7 @@ signon-ui                                                                       
 signond                                                                             8.61-4                                           alpm                              
 sigs.k8s.io/json                                                                    v0.0.0-20250730193827-2d320260d730               go-module       (+1 duplicate)    
 sigs.k8s.io/yaml                                                                    v1.6.0                                           go-module       (+1 duplicate)    
-simdutf                                                                             9.2.1-2                                          alpm                              
+simdutf                                                                             9.2.2-1                                          alpm                              
 slf4j-api                                                                           2.0.16                                           java-archive                      
 slf4j-nop                                                                           2.0.16                                           java-archive                      
 slf4j-simple                                                                        2.0.16                                           java-archive                      
