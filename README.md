@@ -28,7 +28,7 @@ Find us at:
 [![GitHub Release](https://img.shields.io/github/release/linuxserver-playground/docker-webtop.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/linuxserver-playground/docker-webtop/releases)
 [![GitHub Package Repository](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=linuxserver.io&message=GitHub%20Package&logo=github)](https://github.com/linuxserver-playground/docker-webtop/packages)
 [![Docs](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=linuxserver.io&message=Docs&logo=materialformkdocs)](https://linuxserver-playground.github.io/site/images/webtop/)
-[![CI](https://ci.thelamer.duckdns.org:8443/badge/webtop/latest.svg)](https://ci.thelamer.duckdns.org:8443/images/webtop/latest)
+[![Builds](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=linuxserver.io&message=Builds&logo=githubactions)](https://linuxserver-playground.github.io/site/images/webtop/#builds)
 
 [Webtop](https://github.com/linuxserver/docker-webtop) - Alpine, Ubuntu, Fedora, and Arch based containers containing full desktop environments in officially supported flavors accessible via any modern web browser.
 
@@ -377,7 +377,7 @@ docker run --rm --privileged ghcr.io/linuxserver/qemu-static --reset
 
 Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64`.
 
-Every push builds and tests the image with the shared workflow in [`linuxserver-playground/workflows`](https://github.com/linuxserver-playground/workflows); the results for this tag are shown on the [CI status page](https://ci.thelamer.duckdns.org:8443/images/webtop/latest).
+Every push builds and tests the image with the shared workflow in [`linuxserver-playground/workflows`](https://github.com/linuxserver-playground/workflows); every build's tests, screenshots and package changes are on [the image's builds](https://linuxserver-playground.github.io/site/images/webtop/#builds) on the website.
 
 ## Versions
 
