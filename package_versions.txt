@@ -341,7 +341,7 @@ QuickVectorImage                                                                
 QuickVectorImageGeneratorPrivate                                                         6.11.2                                             UnknownPackage                    
 QuickVectorImageHelpers                                                                  6.11.2                                             UnknownPackage                    
 QuickWidgets                                                                             6.11.2                                             UnknownPackage                    
-SDL3                                                                                     3.4.18-1.fc44                                      rpm                               
+SDL3                                                                                     3.4.20-1.fc44                                      rpm                               
 SerialPort                                                                               6.11.2                                             UnknownPackage                    
 ShaderTools                                                                              6.11.2                                             UnknownPackage                    
 ShmServerBufferIntegrationPlugin                                                         6.11.2                                             UnknownPackage                    
@@ -532,7 +532,7 @@ checkpolicy                                                                     
 chromium                                                                                 156.0.8078.79-1.fc44                               rpm                               
 chromium-common                                                                          156.0.8078.79-1.fc44                               rpm                               
 cjson                                                                                    1.7.19-1.fc44                                      rpm                               
-click                                                                                    8.5.0                                              python                            
+click                                                                                    8.5.1                                              python                            
 cloud.google.com/go/auth                                                                 v0.20.0                                            go-module                         
 cloud.google.com/go/auth/oauth2adapt                                                     v0.2.8                                             go-module                         
 cloud.google.com/go/compute/metadata                                                     v0.10.0                                            go-module                         
@@ -587,8 +587,8 @@ device-mapper-libs                                                              
 diffutils                                                                                3.12-5.fc44                                        rpm                               
 distlib                                                                                  0.4.0                                              python                            
 distro                                                                                   1.9.0                                              python                            
-dnf5                                                                                     5.4.6.0-1.fc44                                     rpm                               
-dnf5-plugins                                                                             5.4.6.0-1.fc44                                     rpm                               
+dnf5                                                                                     5.4.7.0-1.fc44                                     rpm                               
+dnf5-plugins                                                                             5.4.7.0-1.fc44                                     rpm                               
 dnspython                                                                                2.9.2                                              python                            
 docbook-dtds                                                                             1.0-91.fc44                                        rpm                               
 docbook-style-xsl                                                                        1.79.2-27.fc44                                     rpm                               
@@ -626,8 +626,8 @@ fedora-release-identity-container                                               
 fedora-repos                                                                             44-2                                               rpm                               
 fftw-libs-double                                                                         3.3.10-17.fc44                                     rpm                               
 fftw-libs-single                                                                         3.3.10-17.fc44                                     rpm                               
-file                                                                                     5.46-10.fc44                                       rpm                               
-file-libs                                                                                5.46-10.fc44                                       rpm                               
+file                                                                                     5.48-2.fc44                                        rpm                               
+file-libs                                                                                5.48-2.fc44                                        rpm                               
 filelock                                                                                 3.15.4                                             python                            
 filesystem                                                                               3.18-52.fc44                                       rpm                               
 findutils                                                                                1:4.10.0-7.fc44                                    rpm                               
@@ -1081,7 +1081,7 @@ httpx                                                                           
 hunspell                                                                                 1.7.6-1.fc44                                       rpm                               
 hunspell-en-US                                                                           0.20260225-2.fc44                                  rpm                               
 hunspell-filesystem                                                                      1.7.6-1.fc44                                       rpm                               
-hwdata                                                                                   0.412-1.fc44                                       rpm                               
+hwdata                                                                                   0.413-1.fc44                                       rpm                               
 i2c-tools                                                                                4.4-4.fc44                                         rpm                               
 ibus-libs                                                                                1.5.34-4.fc44                                      rpm                               
 idna                                                                                     3.20                                               python                            
@@ -1382,9 +1382,9 @@ libdecor                                                                        
 libdeflate                                                                               1.26-1.fc44                                        rpm                               
 libdisplay-info                                                                          0.3.0-1.fc44                                       rpm                               
 libdmtx                                                                                  0.7.8-3.fc44                                       rpm                               
-libdnf5                                                                                  5.4.6.0-1.fc44                                     rpm                               
-libdnf5-cli                                                                              5.4.6.0-1.fc44                                     rpm                               
-libdnf5-plugin-appstream                                                                 5.4.6.0-1.fc44                                     rpm                               
+libdnf5                                                                                  5.4.7.0-1.fc44                                     rpm                               
+libdnf5-cli                                                                              5.4.7.0-1.fc44                                     rpm                               
+libdnf5-plugin-appstream                                                                 5.4.7.0-1.fc44                                     rpm                               
 libdovi                                                                                  3.3.2-3.fc44                                       rpm                               
 libdrm                                                                                   2.4.134-1.fc44                                     rpm                               
 libdvdnav                                                                                7.0.0-1.fc44                                       rpm                               
@@ -1842,8 +1842,8 @@ pybind11                                                                        
 pycairo                                                                                  1.28.0                                             python                            
 pycparser                                                                                2.22                                               python                            
 pycrypto                                                                                 2.6.1                                              python                            
-pydantic                                                                                 2.14.2                                             python                            
-pydantic-core                                                                            2.50.2                                             python                            
+pydantic                                                                                 2.14.3                                             python                            
+pydantic-core                                                                            2.50.4                                             python                            
 pyee                                                                                     16.0.1                                             python                            
 pygobject                                                                                3.56.3                                             python                            
 pylibsrtp                                                                                1.0.0                                              python                            
@@ -2151,8 +2151,8 @@ tracepointgen                                                                   
 tslib                                                                                    1.24-2.fc44                                        rpm                               
 twolame-libs                                                                             0.4.0-9.fc44                                       rpm                               
 typing-extensions                                                                        4.16.0                                             python                            
-typing-inspection                                                                        0.4.4                                              python                            
-tzdata                                                                                   2026e-1.fc44                                       rpm                               
+typing-inspection                                                                        0.4.5                                              python                            
+tzdata                                                                                   2026f-1.fc44                                       rpm                               
 uic                                                                                      6.11.2                                             UnknownPackage                    
 unity-gtk-module-common                                                                  0.0.0+17.04.20170403-24.fc44                       rpm                               
 unity-gtk3-module                                                                        0.0.0+17.04.20170403-24.fc44                       rpm                               
@@ -2182,7 +2182,7 @@ vo-amrwbenc                                                                     
 vulkan-loader                                                                            1.4.341.0-1.fc44                                   rpm                               
 vulkan-tools                                                                             1.4.341.0-1.fc44                                   rpm                               
 wasmdeployqt                                                                             6.11.2                                             UnknownPackage                    
-watchdog                                                                                 7.0.0                                              python                            
+watchdog                                                                                 7.1.0                                              python                            
 watchfiles                                                                               1.3.0                                              python                            
 webrtc-audio-processing                                                                  2.1-5.fc44                                         rpm                               
 webrtc-audio-processing1                                                                 1.3-11.fc44                                        rpm                               
