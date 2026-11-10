@@ -592,7 +592,7 @@ grep                                                                          3.
 groff-base                                                                    1.23.0-10                              deb                              
 gsettings-desktop-schemas                                                     50.0-1ubuntu2                          deb                              
 gsm                                                                           1.0.17-5.el8                           rpm                              
-gstreamer1.0-plugins-base                                                     1.28.2-1ubuntu0.1                      deb                              
+gstreamer1.0-plugins-base                                                     1.28.2-1ubuntu0.2                      deb                              
 gstreamer1.0-plugins-good                                                     1.28.2-2ubuntu0.4                      deb                              
 gtk-update-icon-cache                                                         4.22.4+ds-0ubuntu0.1                   deb                              
 gwenview                                                                      4:25.12.3-0ubuntu1                     deb                              
@@ -886,7 +886,7 @@ libgs10                                                                       10
 libgs10-common                                                                10.06.0~dfsg-3ubuntu1.2                deb                              
 libgsm1                                                                       1.0.23-2                               deb                              
 libgssapi-krb5-2                                                              1.22.1-2ubuntu4.1                      deb                              
-libgstreamer-plugins-base1.0-0                                                1.28.2-1ubuntu0.1                      deb                              
+libgstreamer-plugins-base1.0-0                                                1.28.2-1ubuntu0.2                      deb                              
 libgstreamer1.0-0                                                             1.28.2-1                               deb                              
 libgtk-3-0t64                                                                 3.24.52-0ubuntu1                       deb                              
 libgtk-3-common                                                               3.24.52-0ubuntu1                       deb                              
@@ -894,11 +894,11 @@ libgudev-1.0-0                                                                1:
 libharfbuzz-gobject0                                                          12.3.2-2                               deb                              
 libharfbuzz-subset0                                                           12.3.2-2                               deb                              
 libharfbuzz0b                                                                 12.3.2-2                               deb                              
-libheif-plugin-aomdec                                                         1.21.2-3ubuntu0.6                      deb                              
-libheif-plugin-j2kdec                                                         1.21.2-3ubuntu0.6                      deb                              
-libheif-plugin-libde265                                                       1.21.2-3ubuntu0.6                      deb                              
-libheif-plugin-x265                                                           1.21.2-3ubuntu0.6                      deb                              
-libheif1                                                                      1.21.2-3ubuntu0.6                      deb                              
+libheif-plugin-aomdec                                                         1.21.2-3ubuntu0.7                      deb                              
+libheif-plugin-j2kdec                                                         1.21.2-3ubuntu0.7                      deb                              
+libheif-plugin-libde265                                                       1.21.2-3ubuntu0.7                      deb                              
+libheif-plugin-x265                                                           1.21.2-3ubuntu0.7                      deb                              
+libheif1                                                                      1.21.2-3ubuntu0.7                      deb                              
 libhogweed6t64                                                                3.10.2-1                               deb                              
 libhunspell-1.7-0                                                             1.7.2+really1.7.2-11                   deb                              
 libhwasan0                                                                    16-20260322-1ubuntu1                   deb                              
@@ -1755,7 +1755,7 @@ python3-pyqt6                                                                 6.
 python3-pyqt6.sip                                                             13.11.0-1build1                        deb                              
 python3-setuptools                                                            78.1.1-0.1build1                       deb                              
 python3-setuptools-whl                                                        78.1.1-0.1build1                       deb                              
-python3-software-properties                                                   0.120.1                                deb                              
+python3-software-properties                                                   0.120.2                                deb                              
 python3-typeguard                                                             4.4.4-2                                deb                              
 python3-typing-extensions                                                     4.15.0-2                               deb                              
 python3-venv                                                                  3.14.3-0ubuntu2                        deb                              
@@ -1864,8 +1864,8 @@ sigs.k8s.io/json                                                              v0
 sigs.k8s.io/randfill                                                          v1.0.0                                 go-module                        
 sigs.k8s.io/structured-merge-diff/v6                                          v6.4.2                                 go-module                        
 sigs.k8s.io/yaml                                                              v1.6.0                                 go-module       (+3 duplicates)  
-software-properties-common                                                    0.120.1                                deb                              
-software-properties-qt                                                        0.120.1                                deb                              
+software-properties-common                                                    0.120.2                                deb                              
+software-properties-qt                                                        0.120.2                                deb                              
 sound-theme-freedesktop                                                       0.8-7build1                            deb                              
 sse3-support                                                                  27ubuntu2                              deb                              
 ssl-cert                                                                      1.1.3ubuntu2                           deb                              
