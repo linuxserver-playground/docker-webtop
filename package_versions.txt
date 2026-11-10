@@ -129,7 +129,7 @@ eom-common                                                                    1.
 exim4-base                                                                    4.98.2-1+deb13u5                       deb                              
 exim4-config                                                                  4.98.2-1+deb13u5                       deb                              
 exim4-daemon-light                                                            4.98.2-1+deb13u5                       deb                              
-fastapi                                                                       0.162.0                                python                           
+fastapi                                                                       0.162.2                                python                           
 file                                                                          1:5.46-5                               deb                              
 findutils                                                                     4.10.0-3                               deb                              
 firmware-amd-graphics                                                         20250410-2                             deb                              
@@ -732,7 +732,7 @@ libcloudproviders0                                                            0.
 libcodec2-1.2                                                                 1.2.0-3                                deb                              
 libcolord2                                                                    1.4.7-3                                deb                              
 libcom-err2                                                                   1.47.2-3+b12                           deb                              
-libcpupower1                                                                  6.12.115-2                             deb                              
+libcpupower1                                                                  6.12.116-1                             deb                              
 libcrypt-dev                                                                  1:4.4.38-1                             deb                              
 libcrypt1                                                                     1:4.4.38-1                             deb                              
 libcryptsetup12                                                               2:2.7.5-2                              deb                              
@@ -1247,7 +1247,7 @@ libz3-4                                                                       4.
 libzstd1                                                                      1.5.7+dfsg-1                           deb                              
 libzvbi-common                                                                0.2.44-1                               deb                              
 libzvbi0t64                                                                   0.2.44-1                               deb                              
-linux-libc-dev                                                                6.12.115-2                             deb                              
+linux-libc-dev                                                                6.12.116-1                             deb                              
 linux-sysctl-defaults                                                         4.12.1                                 deb                              
 locales                                                                       2.41-12+deb13u4                        deb                              
 locales-all                                                                   2.41-12+deb13u4                        deb                              
