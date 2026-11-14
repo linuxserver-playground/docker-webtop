@@ -41,7 +41,7 @@ attrs                                                                         26
 audit                                                                         4.2.1-1                               alpm                             
 autocommand                                                                   2.2.2                                 python                           
 autoconf                                                                      2.73-1                                alpm                             
-automake                                                                      1.19-1                                alpm                             
+automake                                                                      1.20-1                                alpm                             
 avahi                                                                         1:0.9rc5-2                            alpm                             
 base-devel                                                                    1-2                                   alpm                             
 bash                                                                          5.3.20-1                              alpm                             
@@ -110,7 +110,7 @@ enchant                                                                       2.
 exo                                                                           4.20.0-2                              alpm                             
 expat                                                                         2.10.0-1                              alpm                             
 fakeroot                                                                      2:1.37.2-1                            alpm                             
-fastapi                                                                       0.162.6                               python                           
+fastapi                                                                       0.162.7                               python                           
 fcft                                                                          3.3.3-1                               alpm                             
 fftw                                                                          3.3.11-1                              alpm                             
 file                                                                          5.48-1                                alpm                             
@@ -716,7 +716,7 @@ pixelflux                                                                     2.
 pixman                                                                        0.46.4-1                              alpm                             
 pkgconf                                                                       3.0.10-1                              alpm                             
 platformdirs                                                                  4.10.0                                python                           
-platformdirs                                                                  4.14.3                                python                           
+platformdirs                                                                  4.14.5                                python                           
 polkit                                                                        128-1                                 alpm                             
 polkit-gnome                                                                  0.105-12                              alpm                             
 poppler                                                                       26.10.0-2                             alpm                             
@@ -754,7 +754,7 @@ python-markdown                                                               3.
 python-markupsafe                                                             3.0.4-1                               alpm                             
 python-more-itertools                                                         11.2.1-1                              alpm                             
 python-packaging                                                              26.3-1                                alpm                             
-python-platformdirs                                                           4.14.3-1                              alpm                             
+python-platformdirs                                                           4.14.5-1                              alpm                             
 python-setuptools                                                             1:84.2.1-1                            alpm                             
 python-wheel                                                                  0.48.0-1                              alpm                             
 pythoncapi_compat                                                             UNKNOWN                               UnknownPackage                   
