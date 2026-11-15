@@ -16,8 +16,8 @@ Bundled_Clip2Tri                                                                
 Bundled_Clipper                                                                     6.4.2                                            UnknownPackage                    
 Bundled_Poly2Tri                                                                    commit a922022da4c0d3a55b1d6b6d634219caea653053  UnknownPackage                    
 CMake                                                                               4.4.3                                                            (+12 duplicates)  
-CMake                                                                               4.4.4                                                            (+1 duplicate)    
 CMake                                                                               4.4.5                                                            (+1 duplicate)    
+CMake                                                                               4.5.0                                                            (+1 duplicate)    
 CMake generator Ninja                                                               1.13.2                                                           (+16 duplicates)  
 CacheControl                                                                        0.14.4                                           python                            
 Compiler GNU                                                                        16.2.1                                                           (+16 duplicates)  
@@ -141,10 +141,10 @@ PIL._imagingmorph                                                               
 PIL._imagingtk                                                                      13.0.0                                           python                            
 PIL._webp                                                                           13.0.0                                           python                            
 PacketProtocolPrivate                                                               6.12.0                                           UnknownPackage                    
-Pdf                                                                                 6.11.3                                           UnknownPackage                    
-PdfQuick                                                                            6.11.3                                           UnknownPackage                    
-PdfQuickplugin                                                                      6.11.3                                           UnknownPackage                    
-PdfWidgets                                                                          6.11.3                                           UnknownPackage                    
+Pdf                                                                                 6.140.0                                          UnknownPackage                    
+PdfQuick                                                                            6.140.0                                          UnknownPackage                    
+PdfQuickplugin                                                                      6.140.0                                          UnknownPackage                    
+PdfWidgets                                                                          6.140.0                                          UnknownPackage                    
 Pillow                                                                              13.0.0                                           python                            
 Platform                                                                            6.12.0                                           UnknownPackage                    
 PlatformAppInternal                                                                 6.12.0                                           UnknownPackage                    
@@ -199,7 +199,7 @@ QNetworkManagerNetworkInformationPlugin                                         
 QODBCDriverPlugin                                                                   6.12.0                                           UnknownPackage                    
 QOffscreenIntegrationPlugin                                                         6.12.0                                           UnknownPackage                    
 QPSQLDriverPlugin                                                                   6.12.0                                           UnknownPackage                    
-QPdfPlugin                                                                          6.11.3                                           UnknownPackage                    
+QPdfPlugin                                                                          6.140.0                                          UnknownPackage                    
 QQmlDebugServerFactoryPlugin                                                        6.12.0                                           UnknownPackage                    
 QQmlDebuggerServiceFactoryPlugin                                                    6.12.0                                           UnknownPackage                    
 QQmlInspectorServiceFactoryPlugin                                                   6.12.0                                           UnknownPackage                    
@@ -236,7 +236,7 @@ QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-decoration-protocol   
 QWaylandXdgShellIntegrationPlugin_Attribution_wayland-xdg-shell-protocol            1.18                                             UnknownPackage                    
 QWaylandXdgShellIntegrationPlugin_Attribution_xdg-dialog-v1                         1                                                UnknownPackage                    
 QWaylandXdgShellIntegrationPlugin_Attribution_xdg-foreign-unstable-v2               1                                                UnknownPackage                    
-QWebEngineViewPlugin                                                                6.11.3                                           UnknownPackage                    
+QWebEngineViewPlugin                                                                6.140.0                                          UnknownPackage                    
 QWebEngineWebViewPlugin                                                             6.12.0                                           UnknownPackage                    
 QXcbEglIntegrationPlugin                                                            6.12.0                                           UnknownPackage                    
 QXcbGlxIntegrationPlugin                                                            6.12.0                                           UnknownPackage                    
@@ -269,7 +269,7 @@ QmlXmlListModel                                                                 
 Qml_Attribution_masm                                                                unknown                                          UnknownPackage                    
 QmltcPrivate                                                                        6.12.0                                           UnknownPackage                    
 QtLibraryInfo                                                                       6.12.0                                           UnknownPackage                    
-QtWebEngineProcess                                                                  6.11.3                                           UnknownPackage                    
+QtWebEngineProcess                                                                  6.140.0                                          UnknownPackage                    
 Quick                                                                               6.12.0                                           UnknownPackage                    
 Quick3DSpatialAudio                                                                 6.12.0                                           UnknownPackage                    
 QuickControls2                                                                      6.12.0                                           UnknownPackage                    
@@ -355,10 +355,10 @@ WaylandGlobalPrivate                                                            
 WebChannel                                                                          6.12.0                                           UnknownPackage                    
 WebChannelQuick                                                                     6.12.0                                           UnknownPackage                    
 WebChannelQuickplugin                                                               6.12.0                                           UnknownPackage                    
-WebEngineCore                                                                       6.11.3                                           UnknownPackage                    
-WebEngineQuick                                                                      6.11.3                                           UnknownPackage                    
-WebEngineQuickDelegatesQml                                                          6.11.3                                           UnknownPackage                    
-WebEngineWidgets                                                                    6.11.3                                           UnknownPackage                    
+WebEngineCore                                                                       6.140.0                                          UnknownPackage                    
+WebEngineQuick                                                                      6.140.0                                          UnknownPackage                    
+WebEngineQuickDelegatesQml                                                          6.140.0                                          UnknownPackage                    
+WebEngineWidgets                                                                    6.140.0                                          UnknownPackage                    
 WebSockets                                                                          6.12.0                                           UnknownPackage                    
 WebView                                                                             6.12.0                                           UnknownPackage                    
 WebViewQuick                                                                        6.12.0                                           UnknownPackage                    
@@ -428,7 +428,7 @@ audit                                                                           
 aurorae                                                                             6.8.2-1                                          alpm                              
 autocommand                                                                         2.2.2                                            python                            
 autoconf                                                                            2.73-1                                           alpm                              
-automake                                                                            1.19-1                                           alpm                              
+automake                                                                            1.20-1                                           alpm                              
 avahi                                                                               1:0.9rc5-2                                       alpm                              
 baloo                                                                               6.31.0-2                                         alpm                              
 baloo-widgets                                                                       26.08.3-1                                        alpm                              
@@ -513,7 +513,7 @@ elfutils                                                                        
 exiv2                                                                               0.28.9-1                                         alpm                              
 expat                                                                               2.10.0-1                                         alpm                              
 fakeroot                                                                            2:1.37.2-1                                       alpm                              
-fastapi                                                                             0.162.6                                          python                            
+fastapi                                                                             0.162.7                                          python                            
 fcft                                                                                3.3.3-1                                          alpm                              
 ffmpeg                                                                              2:9.0.2-3                                        alpm                              
 fftw                                                                                3.3.11-1                                         alpm                              
@@ -1255,7 +1255,7 @@ plasma-integration                                                              
 plasma-workspace                                                                    6.8.2-1                                          alpm                              
 plasma5support                                                                      6.8.2-1                                          alpm                              
 platformdirs                                                                        4.10.0                                           python                            
-platformdirs                                                                        4.14.3                                           python                            
+platformdirs                                                                        4.14.5                                           python                            
 polkit                                                                              128-1                                            alpm                              
 polkit-kde-agent                                                                    6.8.2-1                                          alpm                              
 polkit-qt6                                                                          0.201.1-1                                        alpm                              
@@ -1301,7 +1301,7 @@ python-markdown                                                                 
 python-markupsafe                                                                   3.0.4-1                                          alpm                              
 python-more-itertools                                                               11.2.1-1                                         alpm                              
 python-packaging                                                                    26.3-1                                           alpm                              
-python-platformdirs                                                                 4.14.3-1                                         alpm                              
+python-platformdirs                                                                 4.14.5-1                                         alpm                              
 python-setuptools                                                                   1:84.2.1-1                                       alpm                              
 python-wheel                                                                        0.48.0-1                                         alpm                              
 pythoncapi_compat                                                                   UNKNOWN                                          UnknownPackage                    
@@ -1367,7 +1367,7 @@ qt6-tools                                                                       
 qt6-translations                                                                    6.12.0-1                                         alpm                              
 qt6-virtualkeyboard                                                                 6.12.0-1                                         alpm                              
 qt6-webchannel                                                                      6.12.0-1                                         alpm                              
-qt6-webengine                                                                       6.11.3-2                                         alpm                              
+qt6-webengine                                                                       6.140.0-1                                        alpm                              
 qt6-websockets                                                                      6.12.0-1                                         alpm                              
 qt6-webview                                                                         6.12.0-1                                         alpm                              
 qtattributionsscanner                                                               6.12.0                                           UnknownPackage                    
@@ -1379,7 +1379,7 @@ qtgraphicaleffectsprivate                                                       
 qtlocation                                                                          6.12.0                                           UnknownPackage                    
 qtmultimedia                                                                        6.12.0                                           UnknownPackage                    
 qtpaths                                                                             6.12.0                                           UnknownPackage                    
-qtpdf                                                                               6.11.3+dirty                                     UnknownPackage                    
+qtpdf                                                                               6.140.0+dirty                                    UnknownPackage                    
 qtplugininfo                                                                        6.12.0                                           UnknownPackage                    
 qtpositioning                                                                       6.12.0                                           UnknownPackage                    
 qtqmlcoreplugin                                                                     6.12.0                                           UnknownPackage                    
@@ -1425,9 +1425,9 @@ qtvkbtcimeplugin                                                                
 qtvkbthaiplugin                                                                     6.12.0                                           UnknownPackage                    
 qtwaylandscanner                                                                    6.12.0                                           UnknownPackage                    
 qtwebchannel                                                                        6.12.0                                           UnknownPackage                    
-qtwebengine                                                                         6.11.3+dirty                                     UnknownPackage                    
-qtwebenginequickdelegatesplugin                                                     6.11.3                                           UnknownPackage                    
-qtwebenginequickplugin                                                              6.11.3                                           UnknownPackage                    
+qtwebengine                                                                         6.140.0+dirty                                    UnknownPackage                    
+qtwebenginequickdelegatesplugin                                                     6.140.0                                          UnknownPackage                    
+qtwebenginequickplugin                                                              6.140.0                                          UnknownPackage                    
 qtwebsockets                                                                        6.12.0                                           UnknownPackage                    
 qtwebview                                                                           6.12.0                                           UnknownPackage                    
 qtwebviewquickplugin                                                                6.12.0                                           UnknownPackage                    
@@ -1436,7 +1436,7 @@ quickmultimediaplugin                                                           
 quicktooling                                                                        6.12.0                                           UnknownPackage                    
 quickwindow                                                                         6.12.0                                           UnknownPackage                    
 qvkgen                                                                              6.12.0                                           UnknownPackage                    
-qwebengine_convert_dict                                                             6.11.3                                           UnknownPackage                    
+qwebengine_convert_dict                                                             6.140.0                                          UnknownPackage                    
 raqm                                                                                0.11.0                                           python                            
 rav1e                                                                               0.8.1-3                                          alpm                              
 rcc                                                                                 6.12.0                                           UnknownPackage                    
@@ -1451,7 +1451,7 @@ ripgrep-all                                                                     
 rtkit                                                                               0.14-2                                           alpm                              
 rubberband                                                                          4.0.0-2                                          alpm                              
 runc                                                                                1.5.2-1                                          alpm                              
-rust                                                                                1:1.99.1-4                                       alpm                              
+rust                                                                                1:1.100.0-1                                      alpm                              
 sdl2-compat                                                                         2.32.74-1                                        alpm                              
 sdl3                                                                                3.4.20-1                                         alpm                              
 seatd                                                                               0.9.3-1                                          alpm                              
