@@ -146,9 +146,9 @@ PIL._imagingmath                                                                
 PIL._imagingmorph                                                                        13.0.0                                             python                            
 PIL._imagingtk                                                                           13.0.0                                             python                            
 PIL._webp                                                                                13.0.0                                             python                            
-PackageKit                                                                               1.4.0-2.fc44                                       rpm                               
+PackageKit                                                                               1.4.0-3.fc44                                       rpm                               
 PackageKit-Qt6                                                                           1.1.4-4.fc44                                       rpm                               
-PackageKit-glib                                                                          1.4.0-2.fc44                                       rpm                               
+PackageKit-glib                                                                          1.4.0-3.fc44                                       rpm                               
 PacketProtocolPrivate                                                                    6.11.2                                             UnknownPackage                    
 Pdf                                                                                      6.11.2                                             UnknownPackage                    
 PdfQuick                                                                                 6.11.2                                             UnknownPackage                    
@@ -492,7 +492,7 @@ at-spi2-core                                                                    
 atk                                                                                      2.60.7-1.fc44                                      rpm                               
 attrs                                                                                    26.1.0                                             python                            
 audit-libs                                                                               4.2.1-1.fc44                                       rpm                               
-aurorae                                                                                  6.8.2-1.fc44                                       rpm                               
+aurorae                                                                                  6.8.3-1.fc44                                       rpm                               
 authselect                                                                               1.7.1-1.fc44                                       rpm                               
 authselect-libs                                                                          1.7.1-1.fc44                                       rpm                               
 autocommand                                                                              2.2.2                                              python                            
@@ -502,7 +502,7 @@ avahi                                                                           
 avahi-glib                                                                               0.9~rc2-8.fc44                                     rpm                               
 avahi-libs                                                                               0.9~rc2-8.fc44                                     rpm                               
 backports-tarfile                                                                        1.2.0                                              python                            
-baloo-widgets                                                                            26.08.2-1.fc44                                     rpm                               
+baloo-widgets                                                                            26.08.3-1.fc44                                     rpm                               
 balsam                                                                                   6.11.2                                             UnknownPackage                    
 balsamui                                                                                 6.11.2                                             UnknownPackage                    
 bash                                                                                     5.3.9-3.fc44                                       rpm                               
@@ -510,8 +510,8 @@ beaker                                                                          
 binutils                                                                                 2.46.1-1.fc44                                      rpm                               
 bluez-libs                                                                               5.88-1.fc44                                        rpm                               
 breeze-cursor-theme                                                                      6.8.2-1.fc44                                       rpm                               
-breeze-gtk-common                                                                        6.8.2-1.fc44                                       rpm                               
-breeze-icon-theme                                                                        6.31.0-1.fc44                                      rpm                               
+breeze-gtk-common                                                                        6.8.3-1.fc44                                       rpm                               
+breeze-icon-theme                                                                        6.32.0-1.fc44                                      rpm                               
 brotli                                                                                   1.2.1-1.fc44                                       rpm                               
 brotli-devel                                                                             1.2.1-1.fc44                                       rpm                               
 bubblewrap                                                                               0.12.0-1.fc44                                      rpm                               
@@ -587,15 +587,15 @@ device-mapper-libs                                                              
 diffutils                                                                                3.12-5.fc44                                        rpm                               
 distlib                                                                                  0.4.0                                              python                            
 distro                                                                                   1.9.0                                              python                            
-dnf5                                                                                     5.4.7.0-1.fc44                                     rpm                               
-dnf5-plugins                                                                             5.4.7.0-1.fc44                                     rpm                               
+dnf5                                                                                     5.4.8.0-2.fc44                                     rpm                               
+dnf5-plugins                                                                             5.4.8.0-2.fc44                                     rpm                               
 dnspython                                                                                2.9.2                                              python                            
 docbook-dtds                                                                             1.0-91.fc44                                        rpm                               
 docbook-style-xsl                                                                        1.79.2-27.fc44                                     rpm                               
-docker-cli                                                                               29.9.2-2.fc44                                      rpm                               
-docker-compose                                                                           5.6.0-1.fc44                                       rpm                               
-dolphin                                                                                  26.08.2-3.fc44                                     rpm                               
-dolphin-libs                                                                             26.08.2-3.fc44                                     rpm                               
+docker-cli                                                                               29.9.3-1.fc44                                      rpm                               
+docker-compose                                                                           5.7.0-2.fc44                                       rpm                               
+dolphin                                                                                  26.08.3-1.fc44                                     rpm                               
+dolphin-libs                                                                             26.08.3-1.fc44                                     rpm                               
 double-conversion                                                                        3.4.0-3.fc44                                       rpm                               
 duktape                                                                                  2.7.0-11.fc44                                      rpm                               
 dunst                                                                                    1.13.2-1.fc44                                      rpm                               
@@ -614,7 +614,7 @@ exiv2-libs                                                                      
 expat                                                                                    2.9.0-1.fc44                                       rpm                               
 f44-backgrounds-base                                                                     44.0.0-1.fc44                                      rpm                               
 f44-backgrounds-kde                                                                      44.0.0-1.fc44                                      rpm                               
-fastapi                                                                                  0.162.4                                            python                            
+fastapi                                                                                  0.162.7                                            python                            
 fcft                                                                                     3.3.3-2.fc44                                       rpm                               
 fdk-aac                                                                                  2.0.3-6.fc44                                       rpm                               
 fedora-gpg-keys                                                                          44-2                                               rpm                               
@@ -641,7 +641,7 @@ fonts-filesystem                                                                
 foot                                                                                     1.27.0-1.fc44                                      rpm                               
 freetype                                                                                 2.14.3-1.fc44                                      rpm                               
 freetype-devel                                                                           2.14.3-1.fc44                                      rpm                               
-fribidi                                                                                  1.0.16-4.fc44                                      rpm                               
+fribidi                                                                                  1.0.18-1.fc44                                      rpm                               
 fribidi-shim                                                                             1.x                                                python                            
 frozenlist                                                                               1.8.0                                              python                            
 fuse-common                                                                              3.18.3-1.fc44                                      rpm                               
@@ -669,9 +669,9 @@ ghostscript                                                                     
 ghostscript-tools-fontutils                                                              10.06.0-3.fc44                                     rpm                               
 ghostscript-tools-printing                                                               10.06.0-3.fc44                                     rpm                               
 giflib                                                                                   6.1.3-2.fc44                                       rpm                               
-git                                                                                      2.56.0-1.fc44                                      rpm                               
-git-core                                                                                 2.56.0-1.fc44                                      rpm                               
-git-core-doc                                                                             2.56.0-1.fc44                                      rpm                               
+git                                                                                      2.56.1-1.fc44                                      rpm                               
+git-core                                                                                 2.56.1-1.fc44                                      rpm                               
+git-core-doc                                                                             2.56.1-1.fc44                                      rpm                               
 github.com/Azure/azure-sdk-for-go/sdk/azcore                                             v1.21.1                                            go-module                         
 github.com/Azure/azure-sdk-for-go/sdk/internal                                           v1.12.0                                            go-module                         
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob                                     v1.5.0                                             go-module                         
@@ -751,7 +751,7 @@ github.com/digitorus/pkcs7                                                      
 github.com/digitorus/timestamp                                                           v0.0.0-20231217203849-220c5c2851b7                 go-module                         
 github.com/dimchansky/utfbom                                                             v1.1.1                                             go-module                         
 github.com/distribution/reference                                                        v0.6.0                                             go-module       (+4 duplicates)   
-github.com/docker/cli                                                                    v29.9.2                                            go-module                         
+github.com/docker/cli                                                                    v29.9.3                                            go-module                         
 github.com/docker/cli-docs-tool                                                          v0.11.0                                            go-module                         
 github.com/docker/compose/v5/cmd                                                         UNKNOWN                                            go-module                         
 github.com/docker/distribution                                                           v2.8.3+incompatible                                go-module       (+1 duplicate)    
@@ -767,9 +767,10 @@ github.com/felixge/httpsnoop                                                    
 github.com/fernet/fernet-go                                                              v0.0.0-20240119011108-303da6aec611                 go-module                         
 github.com/fluent/fluent-logger-golang                                                   v1.10.2                                            go-module                         
 github.com/fsnotify/fsnotify                                                             v1.10.1                                            go-module       (+2 duplicates)   
-github.com/fvbommel/sortorder                                                            v1.2.0                                             go-module                         
+github.com/fvbommel/sortorder                                                            v1.2.1                                             go-module                         
 github.com/fxamacker/cbor/v2                                                             v2.9.4                                             go-module       (+2 duplicates)   
-github.com/go-jose/go-jose/v4                                                            v4.1.5                                             go-module       (+1 duplicate)    
+github.com/go-jose/go-jose/v4                                                            v4.1.5                                             go-module                         
+github.com/go-jose/go-jose/v4                                                            v4.1.7                                             go-module                         
 github.com/go-logr/logr                                                                  v1.4.4                                             go-module       (+4 duplicates)   
 github.com/go-logr/stdr                                                                  v1.2.2                                             go-module       (+4 duplicates)   
 github.com/go-openapi/analysis                                                           v0.25.5                                            go-module                         
@@ -812,8 +813,9 @@ github.com/googleapis/enterprise-certificate-proxy                              
 github.com/googleapis/gax-go/v2                                                          v2.23.0                                            go-module                         
 github.com/gorilla/mux                                                                   v1.8.1                                             go-module       (+1 duplicate)    
 github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus                        v1.1.0                                             go-module                         
+github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus                        v1.1.1                                             go-module                         
 github.com/grpc-ecosystem/go-grpc-middleware/v2                                          v2.1.0                                             go-module                         
-github.com/grpc-ecosystem/go-grpc-prometheus                                             v1.2.0                                             go-module                         
+github.com/grpc-ecosystem/go-grpc-middleware/v2                                          v2.3.3                                             go-module                         
 github.com/grpc-ecosystem/grpc-gateway/v2                                                v2.30.0                                            go-module       (+2 duplicates)   
 github.com/hashicorp/errwrap                                                             v1.1.0                                             go-module                         
 github.com/hashicorp/go-immutable-radix                                                  v1.3.1                                             go-module                         
@@ -833,7 +835,7 @@ github.com/intel/goresctrl                                                      
 github.com/ishidawataru/sctp                                                             v0.0.0-20251114114122-19ddcbc6aae2                 go-module       (+1 duplicate)    
 github.com/jmoiron/sqlx                                                                  v1.4.0                                             go-module                         
 github.com/klauspost/compress                                                            v1.20.0                                            go-module       (+2 duplicates)   
-github.com/klauspost/compress                                                            v1.20.1                                            go-module       (+1 duplicate)    
+github.com/klauspost/compress                                                            v1.20.2                                            go-module       (+1 duplicate)    
 github.com/knqyf263/go-plugin                                                            v0.9.0                                             go-module       (+1 duplicate)    
 github.com/mattn/go-runewidth                                                            v0.0.31                                            go-module                         
 github.com/mdlayher/socket                                                               v0.6.0                                             go-module       (+2 duplicates)   
@@ -845,7 +847,7 @@ github.com/mistifyio/go-zfs/v3                                                  
 github.com/mistifyio/go-zfs/v4                                                           v4.0.0                                             go-module                         
 github.com/mitchellh/copystructure                                                       v1.2.0                                             go-module                         
 github.com/mitchellh/reflectwalk                                                         v1.0.2                                             go-module                         
-github.com/moby/buildkit                                                                 v0.34.0                                            go-module                         
+github.com/moby/buildkit                                                                 v0.34.2                                            go-module                         
 github.com/moby/docker-image-spec                                                        v1.3.1                                             go-module       (+1 duplicate)    
 github.com/moby/extensions                                                               v0.0.0-20260918151408-e4c23d866037                 go-module                         
 github.com/moby/go-archive                                                               v0.3.3                                             go-module       (+1 duplicate)    
@@ -853,15 +855,14 @@ github.com/moby/ipvs                                                            
 github.com/moby/locker                                                                   v1.0.1                                             go-module       (+3 duplicates)   
 github.com/moby/moby/api                                                                 v1.56.1                                            go-module       (+1 duplicate)    
 github.com/moby/moby/client                                                              v0.6.2                                             go-module                         
-github.com/moby/moby/v2                                                                  v29.9.2                                            go-module       (+1 duplicate)    
+github.com/moby/moby/v2                                                                  v29.9.3                                            go-module       (+1 duplicate)    
 github.com/moby/patternmatcher                                                           v0.6.1                                             go-module       (+1 duplicate)    
 github.com/moby/policy-helpers                                                           v0.0.0-20261006174519-bd98f4747414                 go-module                         
 github.com/moby/profiles/apparmor                                                        v0.2.2                                             go-module                         
 github.com/moby/profiles/seccomp                                                         v0.2.4                                             go-module                         
 github.com/moby/pubsub                                                                   v1.0.0                                             go-module                         
 github.com/moby/spdystream                                                               v0.5.1                                             go-module                         
-github.com/moby/swarmkit/v2                                                              v2.1.2                                             go-module                         
-github.com/moby/swarmkit/v2                                                              v2.1.3-0.20260917205909-1fd637ba5cc3               go-module                         
+github.com/moby/swarmkit/v2                                                              v2.1.3                                             go-module       (+1 duplicate)    
 github.com/moby/sys/atomicwriter                                                         v0.1.0                                             go-module       (+1 duplicate)    
 github.com/moby/sys/capability                                                           v0.4.0                                             go-module       (+1 duplicate)    
 github.com/moby/sys/mount                                                                v0.3.5                                             go-module                         
@@ -928,7 +929,7 @@ github.com/tetratelabs/wazero                                                   
 github.com/theupdateframework/go-tuf/v2                                                  v2.4.2                                             go-module                         
 github.com/tinylib/msgp                                                                  v1.3.0                                             go-module                         
 github.com/tonistiigi/dchapes-mode                                                       v0.0.0-20250318174251-73d941a28323                 go-module                         
-github.com/tonistiigi/fsutil                                                             v0.0.0-20260819142231-83cac42c1c52                 go-module                         
+github.com/tonistiigi/fsutil                                                             v0.0.0-20261103091533-a72de9dcf763                 go-module                         
 github.com/tonistiigi/go-actions-cache                                                   v0.0.0-20260930145529-afe8013b5ac4                 go-module                         
 github.com/tonistiigi/go-archvariant                                                     v1.0.0                                             go-module                         
 github.com/tonistiigi/go-csvvalue                                                        v0.0.0-20240814133006-030d3b2625d0                 go-module                         
@@ -995,8 +996,10 @@ go.opentelemetry.io/otel/trace                                                  
 go.opentelemetry.io/proto/otlp                                                           v1.11.0                                            go-module       (+2 duplicates)   
 go.uber.org/multierr                                                                     v1.11.0                                            go-module                         
 go.uber.org/zap                                                                          v1.28.0                                            go-module                         
-go.yaml.in/yaml/v2                                                                       v2.4.4                                             go-module       (+2 duplicates)   
-go.yaml.in/yaml/v3                                                                       v3.0.5                                             go-module       (+3 duplicates)   
+go.yaml.in/yaml/v2                                                                       v2.4.4                                             go-module       (+1 duplicate)    
+go.yaml.in/yaml/v2                                                                       v2.4.5                                             go-module                         
+go.yaml.in/yaml/v3                                                                       v3.0.5                                             go-module       (+1 duplicate)    
+go.yaml.in/yaml/v3                                                                       v3.0.6                                             go-module       (+1 duplicate)    
 gobject-introspection                                                                    1.86.0-3.fc44                                      rpm                               
 gobject-introspection-devel                                                              1.86.0-3.fc44                                      rpm                               
 golang.org/x/crypto                                                                      v0.56.0                                            go-module                         
@@ -1006,7 +1009,7 @@ golang.org/x/mod                                                                
 golang.org/x/net                                                                         v0.55.0                                            go-module                         
 golang.org/x/net                                                                         v0.58.0                                            go-module       (+3 duplicates)   
 golang.org/x/net                                                                         v0.60.0                                            go-module                         
-golang.org/x/net                                                                         v0.61.0                                            go-module       (+1 duplicate)    
+golang.org/x/net                                                                         v0.62.0                                            go-module       (+1 duplicate)    
 golang.org/x/oauth2                                                                      v0.37.0                                            go-module                         
 golang.org/x/sync                                                                        v0.23.0                                            go-module       (+4 duplicates)   
 golang.org/x/sync                                                                        v0.24.0                                            go-module                         
@@ -1035,7 +1038,7 @@ google.golang.org/genproto                                                      
 google.golang.org/genproto/googleapis/api                                                v0.0.0-20260825221802-da73d73af1c5                 go-module       (+2 duplicates)   
 google.golang.org/genproto/googleapis/rpc                                                v0.0.0-20260825221802-da73d73af1c5                 go-module       (+5 duplicates)   
 google.golang.org/grpc                                                                   v1.83.2                                            go-module       (+4 duplicates)   
-google.golang.org/grpc                                                                   v1.84.0                                            go-module                         
+google.golang.org/grpc                                                                   v1.85.0                                            go-module                         
 google.golang.org/protobuf                                                               v1.36.12                                           go-module       (+5 duplicates)   
 gopkg.in/inf.v0                                                                          v0.9.1                                             go-module       (+2 duplicates)   
 gperftools-libs                                                                          2.18.1-1.fc44                                      rpm                               
@@ -1084,6 +1087,7 @@ hunspell-filesystem                                                             
 hwdata                                                                                   0.413-1.fc44                                       rpm                               
 i2c-tools                                                                                4.4-4.fc44                                         rpm                               
 ibus-libs                                                                                1.5.34-4.fc44                                      rpm                               
+icu-tzdata                                                                               2026f-1.fc44                                       rpm                               
 idna                                                                                     3.20                                               python                            
 iio-sensor-proxy                                                                         3.8-2.fc44                                         rpm                               
 ilbc                                                                                     3.0.4-19.fc44                                      rpm                               
@@ -1121,28 +1125,28 @@ k8s.io/cri-streaming                                                            
 k8s.io/klog/v2                                                                           v2.140.0                                           go-module       (+2 duplicates)   
 k8s.io/streaming                                                                         v0.37.0                                            go-module                         
 k8s.io/utils                                                                             v0.0.0-20260626114624-be93311217bd                 go-module       (+1 duplicate)    
-kaccounts-integration-qt6                                                                26.08.2-1.fc44                                     rpm                               
-kactivitymanagerd                                                                        6.8.2-1.fc44                                       rpm                               
-kate-libs                                                                                26.08.2-2.fc44                                     rpm                               
+kaccounts-integration-qt6                                                                26.08.3-1.fc44                                     rpm                               
+kactivitymanagerd                                                                        6.8.3-1.fc44                                       rpm                               
+kate-libs                                                                                26.08.3-1.fc44                                     rpm                               
 kbd                                                                                      2.9.0-4.fc44                                       rpm                               
 kbd-legacy                                                                               2.9.0-4.fc44                                       rpm                               
 kbd-misc                                                                                 2.9.0-4.fc44                                       rpm                               
-kcm-plasma-keyboard                                                                      1:6.8.2-1.fc44                                     rpm                               
-kde-cli-tools                                                                            6.8.2-1.fc44                                       rpm                               
+kcm-plasma-keyboard                                                                      1:6.8.3-1.fc44                                     rpm                               
+kde-cli-tools                                                                            6.8.3-1.fc44                                       rpm                               
 kde-filesystem                                                                           5-7.fc44                                           rpm                               
-kde-gtk-config                                                                           6.8.2-1.fc44                                       rpm                               
+kde-gtk-config                                                                           6.8.3-1.fc44                                       rpm                               
 kde-settings                                                                             44.0-1.fc44                                        rpm                               
 kde-settings-plasma                                                                      44.0-1.fc44                                        rpm                               
 kde-settings-pulseaudio                                                                  44.0-1.fc44                                        rpm                               
 kde-wallpapers                                                                           15.08.3-25.fc44                                    rpm                               
-kdecoration                                                                              6.8.2-1.fc44                                       rpm                               
-kdegraphics-mobipocket                                                                   26.08.2-1.fc44                                     rpm                               
-kdesu                                                                                    1:6.8.2-1.fc44                                     rpm                               
-kdialog                                                                                  26.08.2-1.fc44                                     rpm                               
+kdecoration                                                                              6.8.3-1.fc44                                       rpm                               
+kdegraphics-mobipocket                                                                   26.08.3-1.fc44                                     rpm                               
+kdesu                                                                                    1:6.8.3-1.fc44                                     rpm                               
+kdialog                                                                                  26.08.3-1.fc44                                     rpm                               
 kdsoap-ws-discovery-client                                                               0.4.0-6.fc44                                       rpm                               
 kdsoap6                                                                                  2.2.0-9.fc44                                       rpm                               
-keditbookmarks                                                                           26.08.2-1.fc44                                     rpm                               
-keditbookmarks-libs                                                                      26.08.2-1.fc44                                     rpm                               
+keditbookmarks                                                                           26.08.3-1.fc44                                     rpm                               
+keditbookmarks-libs                                                                      26.08.3-1.fc44                                     rpm                               
 kernel-headers                                                                           7.3.3-200.fc44                                     rpm                               
 keyutils-libs                                                                            1.6.3-7.fc44                                       rpm                               
 kf5-attica                                                                               5.116.0-5.fc44                                     rpm                               
@@ -1195,106 +1199,106 @@ kf5-sonnet                                                                      
 kf5-sonnet-core                                                                          5.116.0-5.fc44                                     rpm                               
 kf5-sonnet-ui                                                                            5.116.0-5.fc44                                     rpm                               
 kf5-syndication                                                                          1:5.116.0-5.fc44                                   rpm                               
-kf6-attica                                                                               6.31.0-1.fc44                                      rpm                               
-kf6-baloo                                                                                6.31.0-3.fc44                                      rpm                               
-kf6-baloo-libs                                                                           6.31.0-3.fc44                                      rpm                               
-kf6-bluez-qt                                                                             6.31.0-1.fc44                                      rpm                               
-kf6-breeze-icons                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-filesystem                                                                           6.31.0-1.fc44                                      rpm                               
-kf6-frameworkintegration                                                                 6.31.0-1.fc44                                      rpm                               
-kf6-frameworkintegration-libs                                                            6.31.0-1.fc44                                      rpm                               
-kf6-karchive                                                                             6.31.0-1.fc44                                      rpm                               
-kf6-kauth                                                                                6.31.0-1.fc44                                      rpm                               
-kf6-kbookmarks                                                                           6.31.0-1.fc44                                      rpm                               
-kf6-kcmutils                                                                             6.31.0-1.fc44                                      rpm                               
-kf6-kcodecs                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-kcolorscheme                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-kcompletion                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-kconfig                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-kconfigwidgets                                                                       6.31.0-1.fc44                                      rpm                               
-kf6-kcoreaddons                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-kcrash                                                                               6.31.0-1.fc44                                      rpm                               
-kf6-kdbusaddons                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-kdeclarative                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-kded                                                                                 6.31.0-1.fc44                                      rpm                               
-kf6-kdesu                                                                                6.31.0-1.fc44                                      rpm                               
-kf6-kdnssd                                                                               6.31.0-1.fc44                                      rpm                               
-kf6-kdoctools                                                                            6.31.0-1.fc44                                      rpm                               
-kf6-kfilemetadata                                                                        6.31.0-1.fc44                                      rpm                               
-kf6-kglobalaccel                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-kguiaddons                                                                           6.31.0-1.fc44                                      rpm                               
-kf6-kholidays                                                                            6.31.0-1.fc44                                      rpm                               
-kf6-ki18n                                                                                6.31.0-1.fc44                                      rpm                               
-kf6-kiconthemes                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-kidletime                                                                            6.31.0-1.fc44                                      rpm                               
-kf6-kimageformats                                                                        6.31.0-1.fc44                                      rpm                               
-kf6-kio-core                                                                             6.31.0-1.fc44                                      rpm                               
-kf6-kio-core-libs                                                                        6.31.0-1.fc44                                      rpm                               
-kf6-kio-doc                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-kio-file-widgets                                                                     6.31.0-1.fc44                                      rpm                               
-kf6-kio-gui                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-kio-widgets                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-kio-widgets-libs                                                                     6.31.0-1.fc44                                      rpm                               
-kf6-kirigami                                                                             6.31.0-1.fc44                                      rpm                               
+kf6-attica                                                                               6.32.0-1.fc44                                      rpm                               
+kf6-baloo                                                                                6.32.0-1.fc44                                      rpm                               
+kf6-baloo-libs                                                                           6.32.0-1.fc44                                      rpm                               
+kf6-bluez-qt                                                                             6.32.0-1.fc44                                      rpm                               
+kf6-breeze-icons                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-filesystem                                                                           6.32.0-1.fc44                                      rpm                               
+kf6-frameworkintegration                                                                 6.32.0-1.fc44                                      rpm                               
+kf6-frameworkintegration-libs                                                            6.32.0-1.fc44                                      rpm                               
+kf6-karchive                                                                             6.32.0-1.fc44                                      rpm                               
+kf6-kauth                                                                                6.32.0-1.fc44                                      rpm                               
+kf6-kbookmarks                                                                           6.32.0-1.fc44                                      rpm                               
+kf6-kcmutils                                                                             6.32.0-1.fc44                                      rpm                               
+kf6-kcodecs                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-kcolorscheme                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-kcompletion                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-kconfig                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-kconfigwidgets                                                                       6.32.0-1.fc44                                      rpm                               
+kf6-kcoreaddons                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-kcrash                                                                               6.32.0-1.fc44                                      rpm                               
+kf6-kdbusaddons                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-kdeclarative                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-kded                                                                                 6.32.0-1.fc44                                      rpm                               
+kf6-kdesu                                                                                6.32.0-1.fc44                                      rpm                               
+kf6-kdnssd                                                                               6.32.0-1.fc44                                      rpm                               
+kf6-kdoctools                                                                            6.32.0-1.fc44                                      rpm                               
+kf6-kfilemetadata                                                                        6.32.0-1.fc44                                      rpm                               
+kf6-kglobalaccel                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-kguiaddons                                                                           6.32.0-1.fc44                                      rpm                               
+kf6-kholidays                                                                            6.32.0-1.fc44                                      rpm                               
+kf6-ki18n                                                                                6.32.0-1.fc44                                      rpm                               
+kf6-kiconthemes                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-kidletime                                                                            6.32.0-1.fc44                                      rpm                               
+kf6-kimageformats                                                                        6.32.0-1.fc44                                      rpm                               
+kf6-kio-core                                                                             6.32.0-1.fc44                                      rpm                               
+kf6-kio-core-libs                                                                        6.32.0-1.fc44                                      rpm                               
+kf6-kio-doc                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-kio-file-widgets                                                                     6.32.0-1.fc44                                      rpm                               
+kf6-kio-gui                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-kio-widgets                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-kio-widgets-libs                                                                     6.32.0-1.fc44                                      rpm                               
+kf6-kirigami                                                                             6.32.0-1.fc44                                      rpm                               
 kf6-kirigami-addons                                                                      1.15.0-2.fc44                                      rpm                               
-kf6-kitemmodels                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-kitemviews                                                                           6.31.0-1.fc44                                      rpm                               
-kf6-kjobwidgets                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-knewstuff                                                                            6.31.0-1.fc44                                      rpm                               
-kf6-knotifications                                                                       6.31.0-1.fc44                                      rpm                               
-kf6-knotifyconfig                                                                        6.31.0-1.fc44                                      rpm                               
-kf6-kpackage                                                                             6.31.0-1.fc44                                      rpm                               
-kf6-kparts                                                                               6.31.0-1.fc44                                      rpm                               
-kf6-kpty                                                                                 6.31.0-1.fc44                                      rpm                               
-kf6-kquickcharts                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-krunner                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-kservice                                                                             6.31.0-1.fc44                                      rpm                               
-kf6-kstatusnotifieritem                                                                  6.31.0-1.fc44                                      rpm                               
-kf6-ksvg                                                                                 6.31.0-1.fc44                                      rpm                               
-kf6-ktexteditor                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-ktextwidgets                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-kunitconversion                                                                      6.31.0-1.fc44                                      rpm                               
-kf6-kuserfeedback                                                                        6.31.0-1.fc44                                      rpm                               
-kf6-kwallet                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-kwallet-libs                                                                         6.31.0-1.fc44                                      rpm                               
-kf6-kwidgetsaddons                                                                       6.31.0-1.fc44                                      rpm                               
-kf6-kwindowsystem                                                                        6.31.0-1.fc44                                      rpm                               
-kf6-kxmlgui                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-networkmanager-qt                                                                    6.31.0-1.fc44                                      rpm                               
-kf6-prison                                                                               6.31.0-1.fc44                                      rpm                               
-kf6-purpose                                                                              6.31.0-1.fc44                                      rpm                               
-kf6-qqc2-desktop-style                                                                   6.31.0-1.fc44                                      rpm                               
-kf6-solid                                                                                6.31.0-1.fc44                                      rpm                               
-kf6-sonnet                                                                               6.31.0-1.fc44                                      rpm                               
-kf6-syndication                                                                          6.31.0-1.fc44                                      rpm                               
-kf6-syntax-highlighting                                                                  6.31.0-1.fc44                                      rpm                               
-kfind                                                                                    26.08.2-1.fc44                                     rpm                               
-kglobalacceld                                                                            6.8.2-1.fc44                                       rpm                               
-kio-extras                                                                               26.08.2-1.fc44                                     rpm                               
+kf6-kitemmodels                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-kitemviews                                                                           6.32.0-1.fc44                                      rpm                               
+kf6-kjobwidgets                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-knewstuff                                                                            6.32.0-1.fc44                                      rpm                               
+kf6-knotifications                                                                       6.32.0-1.fc44                                      rpm                               
+kf6-knotifyconfig                                                                        6.32.0-1.fc44                                      rpm                               
+kf6-kpackage                                                                             6.32.0-1.fc44                                      rpm                               
+kf6-kparts                                                                               6.32.0-1.fc44                                      rpm                               
+kf6-kpty                                                                                 6.32.0-1.fc44                                      rpm                               
+kf6-kquickcharts                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-krunner                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-kservice                                                                             6.32.0-1.fc44                                      rpm                               
+kf6-kstatusnotifieritem                                                                  6.32.0-1.fc44                                      rpm                               
+kf6-ksvg                                                                                 6.32.0-1.fc44                                      rpm                               
+kf6-ktexteditor                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-ktextwidgets                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-kunitconversion                                                                      6.32.0-1.fc44                                      rpm                               
+kf6-kuserfeedback                                                                        6.32.0-1.fc44                                      rpm                               
+kf6-kwallet                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-kwallet-libs                                                                         6.32.0-1.fc44                                      rpm                               
+kf6-kwidgetsaddons                                                                       6.32.0-1.fc44                                      rpm                               
+kf6-kwindowsystem                                                                        6.32.0-1.fc44                                      rpm                               
+kf6-kxmlgui                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-networkmanager-qt                                                                    6.32.0-1.fc44                                      rpm                               
+kf6-prison                                                                               6.32.0-1.fc44                                      rpm                               
+kf6-purpose                                                                              6.32.0-1.fc44                                      rpm                               
+kf6-qqc2-desktop-style                                                                   6.32.0-1.fc44                                      rpm                               
+kf6-solid                                                                                6.32.0-1.fc44                                      rpm                               
+kf6-sonnet                                                                               6.32.0-1.fc44                                      rpm                               
+kf6-syndication                                                                          6.32.0-1.fc44                                      rpm                               
+kf6-syntax-highlighting                                                                  6.32.0-1.fc44                                      rpm                               
+kfind                                                                                    26.08.3-1.fc44                                     rpm                               
+kglobalacceld                                                                            6.8.3-1.fc44                                       rpm                               
+kio-extras                                                                               26.08.3-1.fc44                                     rpm                               
 kio-fuse                                                                                 5.1.1-3.fc44                                       rpm                               
-kmenuedit                                                                                6.8.2-1.fc44                                       rpm                               
+kmenuedit                                                                                6.8.3-1.fc44                                       rpm                               
 kmod                                                                                     34.2-4.fc44                                        rpm                               
 kmod-libs                                                                                34.2-4.fc44                                        rpm                               
-knighttime                                                                               6.8.2-1.fc44                                       rpm                               
-konsole                                                                                  26.08.2-2.fc44                                     rpm                               
-konsole-part                                                                             26.08.2-2.fc44                                     rpm                               
-kpipewire                                                                                6.8.2-1.fc44                                       rpm                               
+knighttime                                                                               6.8.3-1.fc44                                       rpm                               
+konsole                                                                                  26.08.3-1.fc44                                     rpm                               
+konsole-part                                                                             26.08.3-1.fc44                                     rpm                               
+kpipewire                                                                                6.8.3-1.fc44                                       rpm                               
 krb5-libs                                                                                1.22.2-4.fc44                                      rpm                               
-kscreenlocker                                                                            6.8.2-1.fc44                                       rpm                               
-ksystemstats                                                                             6.8.2-1.fc44                                       rpm                               
+kscreenlocker                                                                            6.8.3-1.fc44                                       rpm                               
+ksystemstats                                                                             6.8.3-1.fc44                                       rpm                               
 kvantum                                                                                  1.1.6-1.fc44                                       rpm                               
 kvantum-data                                                                             1.1.6-1.fc44                                       rpm                               
-kwayland                                                                                 6.8.2-1.fc44                                       rpm                               
-kwin                                                                                     6.8.2-3.fc44                                       rpm                               
-kwin-common                                                                              6.8.2-3.fc44                                       rpm                               
-kwin-libs                                                                                6.8.2-3.fc44                                       rpm                               
-kwrite                                                                                   26.08.2-2.fc44                                     rpm                               
-kwrited                                                                                  6.8.2-1.fc44                                       rpm                               
+kwayland                                                                                 6.8.3-1.fc44                                       rpm                               
+kwin                                                                                     6.8.3-1.fc44                                       rpm                               
+kwin-common                                                                              6.8.3-1.fc44                                       rpm                               
+kwin-libs                                                                                6.8.3-1.fc44                                       rpm                               
+kwrite                                                                                   26.08.3-1.fc44                                     rpm                               
+kwrited                                                                                  6.8.3-1.fc44                                       rpm                               
 labsanimationplugin                                                                      6.11.2                                             UnknownPackage                    
 labsmodelsplugin                                                                         6.11.2                                             UnknownPackage                    
 labwc                                                                                    0.9.6-1.fc44                                       rpm                               
 lame-libs                                                                                3.100-21.fc44                                      rpm                               
-layer-shell-qt                                                                           6.8.2-1.fc44                                       rpm                               
+layer-shell-qt                                                                           6.8.3-1.fc44                                       rpm                               
 lcheck                                                                                   6.11.2                                             UnknownPackage                    
 lcms2                                                                                    2.16-7.fc44                                        rpm                               
 lconvert                                                                                 6.11.2                                             UnknownPackage                    
@@ -1340,7 +1344,7 @@ libXxf86vm                                                                      
 libaccounts-glib                                                                         1.25-24.fc44                                       rpm                               
 libaccounts-qt6                                                                          1.17-4.fc44                                        rpm                               
 libacl                                                                                   2.4.0-1.fc44                                       rpm                               
-libaom                                                                                   3.15.2-1.fc44                                      rpm                               
+libaom                                                                                   3.15.3-1.fc44                                      rpm                               
 libarchive                                                                               3.8.7-1.fc44                                       rpm                               
 libaribcaption                                                                           1.1.1-4.fc44                                       rpm                               
 libass                                                                                   0.17.4-2.fc44                                      rpm                               
@@ -1382,9 +1386,9 @@ libdecor                                                                        
 libdeflate                                                                               1.26-1.fc44                                        rpm                               
 libdisplay-info                                                                          0.3.0-1.fc44                                       rpm                               
 libdmtx                                                                                  0.7.8-3.fc44                                       rpm                               
-libdnf5                                                                                  5.4.7.0-1.fc44                                     rpm                               
-libdnf5-cli                                                                              5.4.7.0-1.fc44                                     rpm                               
-libdnf5-plugin-appstream                                                                 5.4.7.0-1.fc44                                     rpm                               
+libdnf5                                                                                  5.4.8.0-2.fc44                                     rpm                               
+libdnf5-cli                                                                              5.4.8.0-2.fc44                                     rpm                               
+libdnf5-plugin-appstream                                                                 5.4.8.0-2.fc44                                     rpm                               
 libdovi                                                                                  3.3.2-3.fc44                                       rpm                               
 libdrm                                                                                   2.4.134-1.fc44                                     rpm                               
 libdvdnav                                                                                7.0.0-1.fc44                                       rpm                               
@@ -1436,12 +1440,12 @@ libinput                                                                        
 libjpeg / libjpeg-turbo                                                                  3.2.0                                              UnknownPackage                    
 libjpeg-turbo                                                                            3.1.3-1.fc44                                       rpm                               
 libjxl                                                                                   1:0.11.2-1.fc44                                    rpm                               
-libkexiv2-qt6                                                                            26.08.2-1.fc44                                     rpm                               
+libkexiv2-qt6                                                                            26.08.3-1.fc44                                     rpm                               
 libksba                                                                                  1.6.7-5.fc44                                       rpm                               
-libkscreen                                                                               6.8.2-1.fc44                                       rpm                               
-libksysguard                                                                             6.8.2-1.fc44                                       rpm                               
-libksysguard-common                                                                      6.8.2-1.fc44                                       rpm                               
-libkworkspace6                                                                           6.8.2-1.fc44                                       rpm                               
+libkscreen                                                                               6.8.3-1.fc44                                       rpm                               
+libksysguard                                                                             6.8.3-1.fc44                                       rpm                               
+libksysguard-common                                                                      6.8.3-1.fc44                                       rpm                               
+libkworkspace6                                                                           6.8.3-1.fc44                                       rpm                               
 liblastlog2                                                                              2.41.6-1.fc44                                      rpm                               
 liblc3                                                                                   1.1.3-7.fc44                                       rpm                               
 libldac                                                                                  2.0.2.3-19.fc44                                    rpm                               
@@ -1479,7 +1483,7 @@ libpcap                                                                         
 libpciaccess                                                                             0.16-17.fc44                                       rpm                               
 libpkgconf                                                                               2.5.1-1.fc44                                       rpm                               
 libplacebo                                                                               7.360.1-3.fc44                                     rpm                               
-libplasma                                                                                6.8.2-1.fc44                                       rpm                               
+libplasma                                                                                6.8.3-1.fc44                                       rpm                               
 libplist                                                                                 2.7.0-1.fc44                                       rpm                               
 libpng                                                                                   2:1.6.59-1.fc44                                    rpm                               
 libpng-devel                                                                             2:1.6.59-1.fc44                                    rpm                               
@@ -1626,8 +1630,8 @@ mesa-vulkan-drivers                                                             
 meshdebug                                                                                6.11.2                                             UnknownPackage                    
 minizip-ng-compat                                                                        4.1.0-1.fc44                                       rpm                               
 mkfontscale                                                                              1.2.3-4.fc44                                       rpm                               
-moby-engine                                                                              29.9.2-2.fc44                                      rpm                               
-moby-filesystem                                                                          29.9.2-2.fc44                                      rpm                               
+moby-engine                                                                              29.9.3-1.fc44                                      rpm                               
+moby-filesystem                                                                          29.9.3-1.fc44                                      rpm                               
 moc                                                                                      6.11.2                                             UnknownPackage                    
 modelsplugin                                                                             6.11.2                                             UnknownPackage                    
 more-itertools                                                                           10.8.0                                             python                            
@@ -1661,7 +1665,7 @@ nss-softokn-freebl                                                              
 nss-sysinit                                                                              3.133.0-1.fc44                                     rpm                               
 nss-util                                                                                 3.133.0-1.fc44                                     rpm                               
 nvidia-ml-py                                                                             13.615.71                                          python                            
-ocean-sound-theme                                                                        6.8.2-1.fc44                                       rpm                               
+ocean-sound-theme                                                                        6.8.3-1.fc44                                       rpm                               
 oniguruma                                                                                6.9.10-4.fc44                                      rpm                               
 openapv-libs                                                                             0.2.1.2-1.fc44                                     rpm                               
 openbox                                                                                  3.6.1-30.fc44                                      rpm                               
@@ -1725,7 +1729,7 @@ perl-File-stat                                                                  
 perl-FileHandle                                                                          0:2.05-525.fc44                                    rpm                               
 perl-Getopt-Long                                                                         1:2.58-521.fc44                                    rpm                               
 perl-Getopt-Std                                                                          0:1.14-525.fc44                                    rpm                               
-perl-Git                                                                                 2.56.0-1.fc44                                      rpm                               
+perl-Git                                                                                 2.56.1-1.fc44                                      rpm                               
 perl-HTTP-Tiny                                                                           0.096-1.fc44                                       rpm                               
 perl-IO                                                                                  0:1.55-525.fc44                                    rpm                               
 perl-IO-Socket-IP                                                                        0.43-522.fc44                                      rpm                               
@@ -1786,33 +1790,33 @@ pixman-devel                                                                    
 pkgconf                                                                                  2.5.1-1.fc44                                       rpm                               
 pkgconf-m4                                                                               2.5.1-1.fc44                                       rpm                               
 pkgconf-pkg-config                                                                       2.5.1-1.fc44                                       rpm                               
-plasma-activities                                                                        6.8.2-1.fc44                                       rpm                               
-plasma-activities-stats                                                                  6.8.2-1.fc44                                       rpm                               
-plasma-breeze                                                                            6.8.2-1.fc44                                       rpm                               
-plasma-breeze-common                                                                     6.8.2-1.fc44                                       rpm                               
-plasma-breeze-qt5                                                                        6.8.2-1.fc44                                       rpm                               
-plasma-breeze-qt6                                                                        6.8.2-1.fc44                                       rpm                               
-plasma-desktop                                                                           6.8.2-1.fc44                                       rpm                               
-plasma-discover                                                                          6.8.2-1.fc44                                       rpm                               
-plasma-discover-libs                                                                     6.8.2-1.fc44                                       rpm                               
-plasma-discover-packagekit                                                               6.8.2-1.fc44                                       rpm                               
-plasma-integration                                                                       6.8.2-1.fc44                                       rpm                               
-plasma-integration-qt5                                                                   6.8.2-1.fc44                                       rpm                               
-plasma-keyboard                                                                          1:6.8.2-1.fc44                                     rpm                               
-plasma-lookandfeel-fedora                                                                6.8.2-1.fc44                                       rpm                               
-plasma-systemmonitor                                                                     6.8.2-1.fc44                                       rpm                               
-plasma-systemsettings                                                                    6.8.2-1.fc44                                       rpm                               
-plasma-union                                                                             6.8.2-1.fc44                                       rpm                               
-plasma-workspace                                                                         6.8.2-1.fc44                                       rpm                               
-plasma-workspace-common                                                                  6.8.2-1.fc44                                       rpm                               
-plasma-workspace-libs                                                                    6.8.2-1.fc44                                       rpm                               
-plasma5support                                                                           6.8.2-1.fc44                                       rpm                               
+plasma-activities                                                                        6.8.3-1.fc44                                       rpm                               
+plasma-activities-stats                                                                  6.8.3-1.fc44                                       rpm                               
+plasma-breeze                                                                            6.8.3-1.fc44                                       rpm                               
+plasma-breeze-common                                                                     6.8.3-1.fc44                                       rpm                               
+plasma-breeze-qt5                                                                        6.8.3-1.fc44                                       rpm                               
+plasma-breeze-qt6                                                                        6.8.3-1.fc44                                       rpm                               
+plasma-desktop                                                                           6.8.3-1.fc44                                       rpm                               
+plasma-discover                                                                          6.8.3-1.fc44                                       rpm                               
+plasma-discover-libs                                                                     6.8.3-1.fc44                                       rpm                               
+plasma-discover-packagekit                                                               6.8.3-1.fc44                                       rpm                               
+plasma-integration                                                                       6.8.3-1.fc44                                       rpm                               
+plasma-integration-qt5                                                                   6.8.3-1.fc44                                       rpm                               
+plasma-keyboard                                                                          1:6.8.3-1.fc44                                     rpm                               
+plasma-lookandfeel-fedora                                                                6.8.3-1.fc44                                       rpm                               
+plasma-systemmonitor                                                                     6.8.3-1.fc44                                       rpm                               
+plasma-systemsettings                                                                    6.8.3-1.fc44                                       rpm                               
+plasma-union                                                                             6.8.3-1.fc44                                       rpm                               
+plasma-workspace                                                                         6.8.3-1.fc44                                       rpm                               
+plasma-workspace-common                                                                  6.8.3-1.fc44                                       rpm                               
+plasma-workspace-libs                                                                    6.8.3-1.fc44                                       rpm                               
+plasma5support                                                                           6.8.3-1.fc44                                       rpm                               
 platformdirs                                                                             4.4.0                                              python                            
 platformdirs                                                                             4.9.1                                              python                            
 policycoreutils                                                                          3.11-2.fc44                                        rpm                               
 policycoreutils-python-utils                                                             3.11-2.fc44                                        rpm                               
 polkit                                                                                   127-2.fc44.2                                       rpm                               
-polkit-kde                                                                               6.8.2-1.fc44                                       rpm                               
+polkit-kde                                                                               6.8.3-1.fc44                                       rpm                               
 polkit-libs                                                                              127-2.fc44.2                                       rpm                               
 polkit-qt5-1                                                                             0.201.1-1.fc44                                     rpm                               
 polkit-qt6-1                                                                             0.201.1-1.fc44                                     rpm                               
@@ -1824,7 +1828,7 @@ poppler-qt6                                                                     
 poppler-utils                                                                            26.01.0-3.fc44                                     rpm                               
 popt                                                                                     1.19-10.fc44                                       rpm                               
 positioningquickplugin                                                                   6.11.2                                             UnknownPackage                    
-powerdevil                                                                               6.8.2-1.fc44                                       rpm                               
+powerdevil                                                                               6.8.3-1.fc44                                       rpm                               
 procps-ng                                                                                4.0.6-1.fc44                                       rpm                               
 prometheus-client                                                                        0.26.0                                             python                            
 propcache                                                                                0.5.4                                              python                            
@@ -1844,7 +1848,7 @@ pycparser                                                                       
 pycrypto                                                                                 2.6.1                                              python                            
 pydantic                                                                                 2.14.3                                             python                            
 pydantic-core                                                                            2.50.4                                             python                            
-pyee                                                                                     16.0.1                                             python                            
+pyee                                                                                     16.0.2                                             python                            
 pygobject                                                                                3.56.3                                             python                            
 pylibsrtp                                                                                1.0.0                                              python                            
 pyopenssl                                                                                26.4.0                                             python                            
@@ -1929,7 +1933,7 @@ qmlwavefrontmeshplugin                                                          
 qmlwebsockets                                                                            6.11.2                                             UnknownPackage                    
 qmlxmllistmodelplugin                                                                    6.11.2                                             UnknownPackage                    
 qpdf-libs                                                                                12.3.2-1.fc44                                      rpm                               
-qqc2-breeze-style                                                                        6.8.2-1.fc44                                       rpm                               
+qqc2-breeze-style                                                                        6.8.3-1.fc44                                       rpm                               
 qquick3dplugin                                                                           6.11.2                                             UnknownPackage                    
 qquicklayoutsplugin                                                                      6.11.2                                             UnknownPackage                    
 qquickvectorimagehelpersplugin                                                           6.11.2                                             UnknownPackage                    
@@ -1956,7 +1960,7 @@ qt6-qt5compat                                                                   
 qt6-qtbase                                                                               6.11.2-3.fc44                                      rpm                               
 qt6-qtbase-common                                                                        6.11.2-3.fc44                                      rpm                               
 qt6-qtbase-gui                                                                           6.11.2-3.fc44                                      rpm                               
-qt6-qtdeclarative                                                                        6.11.2-2.fc44                                      rpm                               
+qt6-qtdeclarative                                                                        6.11.2-3.fc44                                      rpm                               
 qt6-qtlocation                                                                           6.11.2-1.fc44                                      rpm                               
 qt6-qtmultimedia                                                                         6.11.2-1.fc44                                      rpm                               
 qt6-qtpdf                                                                                6.11.2-2.fc44                                      rpm                               
@@ -2121,8 +2125,8 @@ srt-libs                                                                        
 st                                                                                       0.9.2-4.fc44                                       rpm                               
 starlette                                                                                1.10.0                                             python                            
 startup-notification                                                                     0.12-33.fc44                                       rpm                               
-stdlib                                                                                   go1.26.10-X:nodwarf5                               go-module       (+2 duplicates)   
-stdlib                                                                                   go1.26.8-X:nodwarf5                                go-module       (+1 duplicate)    
+stdlib                                                                                   go1.26.10-X:nodwarf5                               go-module       (+3 duplicates)   
+stdlib                                                                                   go1.26.8-X:nodwarf5                                go-module                         
 stdlib                                                                                   go1.26.9-X:nodwarf5                                go-module       (+3 duplicates)   
 sudo                                                                                     1.9.17-10.p2.fc44                                  rpm                               
 svgtoqml                                                                                 6.11.2                                             UnknownPackage                    
@@ -2206,7 +2210,7 @@ xcb-util-wm                                                                     
 xclip                                                                                    0.13-26.git11cba61.fc44                            rpm                               
 xdg-desktop-portal                                                                       1.22.1-1.fc44                                      rpm                               
 xdg-desktop-portal-gtk                                                                   1.15.3-3.fc44                                      rpm                               
-xdg-desktop-portal-kde                                                                   6.8.2-1.fc44                                       rpm                               
+xdg-desktop-portal-kde                                                                   6.8.3-1.fc44                                       rpm                               
 xdg-desktop-portal-wlr                                                                   0.8.5-1.fc44                                       rpm                               
 xdg-user-dirs                                                                            0.18-11.fc43                                       rpm                               
 xdg-utils                                                                                1.2.1-5.fc44                                       rpm                               
@@ -2230,10 +2234,10 @@ xorg-x11-fonts-100dpi                                                           
 xorg-x11-fonts-75dpi                                                                     7.5-42.fc44                                        rpm                               
 xorg-x11-fonts-misc                                                                      7.5-42.fc44                                        rpm                               
 xorg-x11-proto-devel                                                                     2025.1-2.fc44                                      rpm                               
-xorg-x11-server-Xorg                                                                     21.1.25-2.fc44                                     rpm                               
-xorg-x11-server-Xvfb                                                                     21.1.25-2.fc44                                     rpm                               
+xorg-x11-server-Xorg                                                                     21.1.26-1.fc44                                     rpm                               
+xorg-x11-server-Xvfb                                                                     21.1.26-1.fc44                                     rpm                               
 xorg-x11-server-Xwayland                                                                 24.1.14-2.fc44                                     rpm                               
-xorg-x11-server-common                                                                   21.1.25-2.fc44                                     rpm                               
+xorg-x11-server-common                                                                   21.1.26-1.fc44                                     rpm                               
 xorg-x11-xauth                                                                           1:1.1.5-1.fc44                                     rpm                               
 xprop                                                                                    1.2.8-5.fc44                                       rpm                               
 xrandr                                                                                   1.5.3-4.fc44                                       rpm                               
