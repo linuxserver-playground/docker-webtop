@@ -1037,7 +1037,7 @@ mate-user-guide-lang                                                          1.
 mate-utils                                                                    1.28.0-r1                               apk                              
 mate-utils-lang                                                               1.28.0-r1                               apk                              
 maybe-rayon                                                                   0.1.1                                   rust-crate                       
-mbedtls3                                                                      3.6.7-r0                                apk                              
+mbedtls3                                                                      3.6.8-r0                                apk                              
 mcookie                                                                       2.42.3-r1                               apk                              
 memchr                                                                        2.7.5                                   rust-crate                       
 mesa                                                                          26.1.6-r0                               apk                              
