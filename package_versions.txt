@@ -450,7 +450,7 @@ ca-certificates-utils                                                           
 cairo                                                                               1.18.6-1                                         alpm                              
 catatonit                                                                           0.2.1-2                                          alpm                              
 certifi                                                                             2026.10.19                                       python                            
-certifi                                                                             2026.10.23                                       python                            
+certifi                                                                             2026.11.20                                       python                            
 cffi                                                                                2.1.1                                            python                            
 cfitsio                                                                             1:4.7.0-1                                        alpm                              
 chromium                                                                            158.0.8127.36-1                                  alpm                              
@@ -705,7 +705,7 @@ glycin                                                                          
 gmp                                                                                 6.3.0-3                                          alpm                              
 gnulib-l10n                                                                         20241231-1                                       alpm                              
 gnupg                                                                               2.4.9-4                                          alpm                              
-gnutls                                                                              3.8.13-3                                         alpm                              
+gnutls                                                                              3.8.14-1                                         alpm                              
 go.etcd.io/bbolt                                                                    v1.5.0                                           go-module                         
 go.opentelemetry.io/auto/sdk                                                        v1.2.1                                           go-module       (+3 duplicates)   
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc         v0.71.0                                          go-module       (+2 duplicates)   
@@ -1031,7 +1031,7 @@ libogg                                                                          
 libogg                                                                              1.3.6-1                                          alpm                              
 libopenmpt                                                                          0.8.10-1                                         alpm                              
 libp11-kit                                                                          0.26.6-1                                         alpm                              
-libpackagekit-glib                                                                  1.4.0-1                                          alpm                              
+libpackagekit-glib                                                                  1.4.1-1                                          alpm                              
 libpaper                                                                            2.2.8-1                                          alpm                              
 libpathrs                                                                           0.2.6-1                                          alpm                              
 libpcap                                                                             1.11.0-1                                         alpm                              
@@ -1220,7 +1220,7 @@ opentelemetry-api                                                               
 opus                                                                                1.6.1-1                                          alpm                              
 orc                                                                                 0.4.44-1                                         alpm                              
 p11-kit                                                                             0.26.6-1                                         alpm                              
-packagekit                                                                          1.4.0-1                                          alpm                              
+packagekit                                                                          1.4.1-1                                          alpm                              
 packaging                                                                           26.2                                             python                            
 packaging                                                                           26.3                                             python                            
 pacman                                                                              7.1.0.r9.g54d9411-4                              alpm                              
@@ -1306,7 +1306,7 @@ python-platformdirs                                                             
 python-setuptools                                                                   1:84.2.1-1                                       alpm                              
 python-wheel                                                                        0.48.0-1                                         alpm                              
 pythoncapi_compat                                                                   UNKNOWN                                          UnknownPackage                    
-pyyaml                                                                              6.0.3                                            python                            
+pyyaml                                                                              6.0.4                                            python                            
 qca-qt6                                                                             2.3.12-3                                         alpm                              
 qcoro                                                                               0.13.0-2                                         alpm                              
 qdbus                                                                               6.12.0                                           UnknownPackage                    
