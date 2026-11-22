@@ -55,7 +55,7 @@ ca-certificates-utils                                                         20
 cairo                                                                         1.18.6-1                              alpm                             
 catatonit                                                                     0.2.1-2                               alpm                             
 certifi                                                                       2026.10.19                            python                           
-certifi                                                                       2026.10.23                            python                           
+certifi                                                                       2026.11.20                            python                           
 cffi                                                                          2.1.1                                 python                           
 chromium                                                                      158.0.8127.36-1                       alpm                             
 click                                                                         8.5.1                                 python                           
@@ -291,7 +291,7 @@ glycin                                                                        2.
 gmp                                                                           6.3.0-3                               alpm                             
 gnulib-l10n                                                                   20241231-1                            alpm                             
 gnupg                                                                         2.4.9-4                               alpm                             
-gnutls                                                                        3.8.13-3                              alpm                             
+gnutls                                                                        3.8.14-1                              alpm                             
 go.etcd.io/bbolt                                                              v1.5.0                                go-module                        
 go.opentelemetry.io/auto/sdk                                                  v1.2.1                                go-module       (+3 duplicates)  
 go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc   v0.71.0                               go-module       (+2 duplicates)  
@@ -685,7 +685,7 @@ python-platformdirs                                                           4.
 python-setuptools                                                             1:84.2.1-1                            alpm                             
 python-wheel                                                                  0.48.0-1                              alpm                             
 pythoncapi_compat                                                             UNKNOWN                               UnknownPackage                   
-pyyaml                                                                        6.0.3                                 python                           
+pyyaml                                                                        6.0.4                                 python                           
 raqm                                                                          0.11.0                                python                           
 readline                                                                      8.3.6-1                               alpm                             
 requests                                                                      2.34.2                                python                           
