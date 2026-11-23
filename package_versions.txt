@@ -31,7 +31,7 @@ aiohttp                                                                       3.
 aiosignal                                                                     1.4.0                                              python                           
 alsa-lib                                                                      1.2.16.1-1.fc44                                    rpm                              
 alternatives                                                                  1.33-5.fc44                                        rpm                              
-annotated-doc                                                                 0.0.6                                              python                           
+annotated-doc                                                                 0.0.7                                              python                           
 annotated-types                                                               0.8.0                                              python                           
 anyio                                                                         4.16.0                                             python                           
 aribb24                                                                       1.0.3^20160216git5e9be27-5.fc44                    rpm                              
@@ -70,7 +70,7 @@ cairo-gobject                                                                 1.
 cairomm1.16                                                                   1.18.1-1.fc44                                      rpm                              
 catatonit                                                                     0.2.1-5.fc44                                       rpm                              
 cdparanoia-libs                                                               10.2-50.fc44                                       rpm                              
-certifi                                                                       2026.10.23                                         python                           
+certifi                                                                       2026.11.20                                         python                           
 cffi                                                                          2.0.0                                              python                           
 checkpolicy                                                                   3.11-1.fc44                                        rpm                              
 chromium                                                                      157.0.8103.78-1.fc44                               rpm                              
@@ -133,7 +133,7 @@ dnf5                                                                          5.
 dnf5-plugins                                                                  5.4.8.0-2.fc44                                     rpm                              
 dnspython                                                                     2.9.2                                              python                           
 docker-cli                                                                    29.9.3-1.fc44                                      rpm                              
-docker-compose                                                                5.7.0-2.fc44                                       rpm                              
+docker-compose                                                                5.7.1-1.fc44                                       rpm                              
 double-conversion                                                             3.4.0-3.fc44                                       rpm                              
 duktape                                                                       2.7.0-11.fc44                                      rpm                              
 dunst                                                                         1.13.2-1.fc44                                      rpm                              
@@ -151,7 +151,7 @@ enchant2                                                                      2.
 exo                                                                           4.20.0-4.fc44                                      rpm                              
 expat                                                                         2.9.0-1.fc44                                       rpm                              
 f44-backgrounds-base                                                          44.0.0-1.fc44                                      rpm                              
-fastapi                                                                       0.163.2                                            python                           
+fastapi                                                                       0.165.0                                            python                           
 fcft                                                                          3.3.3-2.fc44                                       rpm                              
 fdk-aac                                                                       2.0.3-6.fc44                                       rpm                              
 fedora-gpg-keys                                                               44-2                                               rpm                              
@@ -398,7 +398,8 @@ github.com/moby/pubsub                                                        v1
 github.com/moby/spdystream                                                    v0.5.1                                             go-module                        
 github.com/moby/swarmkit/v2                                                   v2.1.3                                             go-module       (+1 duplicate)   
 github.com/moby/sys/atomicwriter                                              v0.1.0                                             go-module       (+1 duplicate)   
-github.com/moby/sys/capability                                                v0.4.0                                             go-module       (+1 duplicate)   
+github.com/moby/sys/capability                                                v0.4.0                                             go-module                        
+github.com/moby/sys/capability                                                v0.5.0                                             go-module                        
 github.com/moby/sys/mount                                                     v0.3.5                                             go-module                        
 github.com/moby/sys/mountinfo                                                 v0.7.2                                             go-module       (+5 duplicates)  
 github.com/moby/sys/reexec                                                    v0.1.0                                             go-module                        
@@ -416,7 +417,7 @@ github.com/oklog/ulid/v2                                                      v2
 github.com/opencontainers/cgroups                                             v0.1.0                                             go-module       (+1 duplicate)   
 github.com/opencontainers/go-digest                                           v1.0.0                                             go-module       (+5 duplicates)  
 github.com/opencontainers/image-spec                                          v1.1.1                                             go-module       (+5 duplicates)  
-github.com/opencontainers/runc                                                v1.5.2                                             go-module                        
+github.com/opencontainers/runc                                                v1.5.3                                             go-module                        
 github.com/opencontainers/runtime-spec                                        v1.3.0                                             go-module       (+5 duplicates)  
 github.com/opencontainers/selinux                                             v1.13.1                                            go-module                        
 github.com/opencontainers/selinux                                             v1.15.1                                            go-module       (+1 duplicate)   
@@ -1014,11 +1015,11 @@ netcat                                                                        1.
 nettle                                                                        3.10.1-3.fc44                                      rpm                              
 nftables                                                                      1:1.1.6-2.fc44                                     rpm                              
 nftables-services                                                             1:1.1.6-2.fc44                                     rpm                              
-nginx                                                                         2:1.30.6-2.fc44                                    rpm                              
-nginx-core                                                                    2:1.30.6-2.fc44                                    rpm                              
-nginx-filesystem                                                              2:1.30.6-2.fc44                                    rpm                              
+nginx                                                                         2:1.30.7-2.fc44                                    rpm                              
+nginx-core                                                                    2:1.30.7-2.fc44                                    rpm                              
+nginx-filesystem                                                              2:1.30.7-2.fc44                                    rpm                              
 nginx-mimetypes                                                               2.1.54-10.fc44                                     rpm                              
-nginx-mod-fancyindex                                                          0.6.0-10.fc44                                      rpm                              
+nginx-mod-fancyindex                                                          0.6.0-11.fc44                                      rpm                              
 ngtcp2                                                                        1.22.1-1.fc44                                      rpm                              
 ngtcp2-crypto-gnutls                                                          1.22.1-1.fc44                                      rpm                              
 ngtcp2-crypto-ossl                                                            1.22.1-1.fc44                                      rpm                              
@@ -1176,8 +1177,8 @@ pybind11                                                                      UN
 pycairo                                                                       1.28.0                                             python                           
 pycparser                                                                     2.22                                               python                           
 pycrypto                                                                      2.6.1                                              python                           
-pydantic                                                                      2.14.3                                             python                           
-pydantic-core                                                                 2.50.4                                             python                           
+pydantic                                                                      2.14.4                                             python                           
+pydantic-core                                                                 2.50.5                                             python                           
 pyee                                                                          16.1.0                                             python                           
 pygobject                                                                     3.56.3                                             python                           
 pylibsrtp                                                                     1.0.0                                              python                           
@@ -1220,7 +1221,7 @@ python3-six                                                                   1.
 python3-virtualenv                                                            20.35.4-4.fc44                                     rpm                              
 pythoncapi_compat                                                             UNKNOWN                                            UnknownPackage                   
 pyxdg                                                                         0.28                                               python                           
-pyyaml                                                                        6.0.3                                              python                           
+pyyaml                                                                        6.0.4                                              python                           
 qpdf-libs                                                                     12.3.2-1.fc44                                      rpm                              
 raqm                                                                          0.11.0                                             python                           
 rav1e-libs                                                                    0.8.1-3.fc44                                       rpm                              
@@ -1239,7 +1240,7 @@ rpm-sign-libs                                                                 6.
 rpmfusion-free-release                                                        44-3                                               rpm                              
 rpmfusion-nonfree-release                                                     44-3                                               rpm                              
 rtkit                                                                         0.11-70.fc44                                       rpm                              
-runc                                                                          2:1.5.2-3.fc44                                     rpm                              
+runc                                                                          2:1.5.3-1.fc44                                     rpm                              
 samba-client-libs                                                             2:4.24.7-1.fc44                                    rpm                              
 samba-common                                                                  2:4.24.7-1.fc44                                    rpm                              
 samba-core-libs                                                               2:4.24.7-1.fc44                                    rpm                              
@@ -1272,8 +1273,7 @@ srt-libs                                                                      1.
 st                                                                            0.9.2-4.fc44                                       rpm                              
 starlette                                                                     1.10.0                                             python                           
 startup-notification                                                          0.12-33.fc44                                       rpm                              
-stdlib                                                                        go1.26.10-X:nodwarf5                               go-module       (+3 duplicates)  
-stdlib                                                                        go1.26.8-X:nodwarf5                                go-module                        
+stdlib                                                                        go1.26.10-X:nodwarf5                               go-module       (+4 duplicates)  
 stdlib                                                                        go1.26.9-X:nodwarf5                                go-module       (+3 duplicates)  
 sudo                                                                          1.9.17-10.p2.fc44                                  rpm                              
 svt-av1-libs                                                                  3.1.2-2.fc44                                       rpm                              
