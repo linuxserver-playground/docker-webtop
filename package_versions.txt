@@ -68,7 +68,7 @@ catatonit                                                                     0.
 certifi                                                                       2026.10.19                            python                           
 certifi                                                                       2026.11.20                            python                           
 cffi                                                                          2.1.1                                 python                           
-chromium                                                                      158.0.8127.36-1                       alpm                             
+chromium                                                                      158.0.8127.36-2                       alpm                             
 click                                                                         8.5.1                                 python                           
 cmake                                                                         4.5.1-1                               alpm                             
 command-line-arguments                                                        UNKNOWN                               go-module                        
@@ -77,7 +77,7 @@ containerd                                                                    2.
 coreutils                                                                     9.12-3                                alpm                             
 cpio                                                                          2.15-3                                alpm                             
 cppdap                                                                        1.58.0-3                              alpm                             
-cpupower                                                                      7.3.5-1                               alpm                             
+cpupower                                                                      7.3.6-1                               alpm                             
 cryptography                                                                  50.0.2                                python                           
 cryptsetup                                                                    2.8.8-2                               alpm                             
 cups                                                                          2:2.4.20-1                            alpm                             
@@ -386,7 +386,7 @@ gvfs                                                                          1.
 gzip                                                                          1.15-1                                alpm                             
 h11                                                                           0.16.0                                python                           
 harfbuzz                                                                      15.1.0-1                              alpm                             
-harfbuzz-icu                                                                  15.1.0-1                              alpm                             
+harfbuzz-icu                                                                  15.2.0-1                              alpm                             
 hicolor-icon-theme                                                            0.18-1                                alpm                             
 hidapi                                                                        0.15.0-1                              alpm                             
 highway                                                                       1.4.0-1                               alpm                             
@@ -820,7 +820,7 @@ shadow                                                                        4.
 shared-mime-info                                                              2.5.1-2                               alpm                             
 sigs.k8s.io/json                                                              v0.0.0-20250730193827-2d320260d730    go-module       (+1 duplicate)   
 sigs.k8s.io/yaml                                                              v1.6.0                                go-module       (+1 duplicate)   
-simdutf                                                                       9.2.2-1                               alpm                             
+simdutf                                                                       9.3.1-1                               alpm                             
 slang                                                                         2.3.3-4                               alpm                             
 sound-theme-freedesktop                                                       0.8-6                                 alpm                             
 source-highlight                                                              3.1.9-19                              alpm                             
@@ -865,8 +865,8 @@ uvicorn                                                                       0.
 uvloop                                                                        0.23.0                                python                           
 vmaf                                                                          3.2.1-1                               alpm                             
 volume_key                                                                    0.3.12-12                             alpm                             
-vte-common                                                                    0.84.1-1                              alpm                             
-vte3                                                                          0.84.1-1                              alpm                             
+vte-common                                                                    0.84.2-1                              alpm                             
+vte3                                                                          0.84.2-1                              alpm                             
 vulkan-icd-loader                                                             1.4.363.0-1                           alpm                             
 vulkan-intel                                                                  1:26.3.1-2                            alpm                             
 vulkan-mesa-implicit-layers                                                   1:26.3.1-2                            alpm                             
@@ -938,7 +938,7 @@ xxhash                                                                        0.
 xz                                                                            5.8.4-1                               alpm                             
 xz-libs                                                                       5.2.4-4.el8_6                         rpm                              
 yarl                                                                          1.25.1                                python                           
-yelp                                                                          49.2-1                                alpm                             
+yelp                                                                          49.2-2                                alpm                             
 yelp-xsl                                                                      49.0-1                                alpm                             
 zenity                                                                        4.2.2-1                               alpm                             
 zeromq                                                                        4.3.5-3                               alpm                             
