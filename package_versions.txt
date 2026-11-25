@@ -51,8 +51,8 @@ ca-certificates                                                               20
 catatonit                                                                     0.2.1-2build1                                 deb                              
 certifi                                                                       2026.11.20                                    python                           
 cffi                                                                          2.1.1                                         python                           
-chromium                                                                      156.0.8078.73-1xtradeb1.2604.1                deb                              
-chromium-common                                                               156.0.8078.73-1xtradeb1.2604.1                deb                              
+chromium                                                                      156.0.8078.108-1xtradeb1.2604.1               deb                              
+chromium-common                                                               156.0.8078.108-1xtradeb1.2604.1               deb                              
 click                                                                         8.5.1                                         python                           
 cloud.google.com/go/auth                                                      v0.24.1                                       go-module                        
 cloud.google.com/go/auth/oauth2adapt                                          v0.3.0                                        go-module                        
