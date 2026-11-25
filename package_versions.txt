@@ -61,7 +61,7 @@ catatonit                                                                     0.
 certifi                                                                       2026.10.19                            python                           
 certifi                                                                       2026.11.20                            python                           
 cffi                                                                          2.1.1                                 python                           
-chromium                                                                      158.0.8127.36-1                       alpm                             
+chromium                                                                      158.0.8127.88-1                       alpm                             
 click                                                                         8.5.1                                 python                           
 cmake                                                                         4.5.1-1                               alpm                             
 colord                                                                        1.4.8-2                               alpm                             
@@ -367,7 +367,7 @@ gtest                                                                         1.
 gtk-layer-shell                                                               0.10.1-1                              alpm                             
 gtk-update-icon-cache                                                         1:4.24.1-1                            alpm                             
 gtk3                                                                          1:3.24.52-2                           alpm                             
-gtk4                                                                          1:4.24.1-1                            alpm                             
+gtk4                                                                          1:4.24.2-1                            alpm                             
 gtkmm-4.0                                                                     4.24.0-1                              alpm                             
 gtksourceview4                                                                4.8.4-2                               alpm                             
 guile                                                                         3.0.11-1                              alpm                             
@@ -377,7 +377,7 @@ gvfs                                                                          1.
 gzip                                                                          1.15-1                                alpm                             
 h11                                                                           0.16.0                                python                           
 harfbuzz                                                                      15.1.0-1                              alpm                             
-harfbuzz-icu                                                                  15.1.0-1                              alpm                             
+harfbuzz-icu                                                                  15.2.0-1                              alpm                             
 hicolor-icon-theme                                                            0.18-1                                alpm                             
 hidapi                                                                        0.15.0-1                              alpm                             
 highway                                                                       1.4.0-1                               alpm                             
@@ -779,7 +779,7 @@ shadow                                                                        4.
 shared-mime-info                                                              2.5.1-2                               alpm                             
 sigs.k8s.io/json                                                              v0.0.0-20250730193827-2d320260d730    go-module       (+1 duplicate)   
 sigs.k8s.io/yaml                                                              v1.6.0                                go-module       (+1 duplicate)   
-simdutf                                                                       9.2.2-1                               alpm                             
+simdutf                                                                       9.3.2-1                               alpm                             
 sound-theme-freedesktop                                                       0.8-6                                 alpm                             
 source-highlight                                                              3.1.9-19                              alpm                             
 speexdsp                                                                      1.2.1-3                               alpm                             
@@ -827,8 +827,8 @@ uvicorn                                                                       0.
 uvloop                                                                        0.23.0                                python                           
 vmaf                                                                          3.2.1-1                               alpm                             
 volume_key                                                                    0.3.12-12                             alpm                             
-vte-common                                                                    0.84.1-1                              alpm                             
-vte3                                                                          0.84.1-1                              alpm                             
+vte-common                                                                    0.84.2-1                              alpm                             
+vte3                                                                          0.84.2-1                              alpm                             
 vulkan-icd-loader                                                             1.4.363.0-1                           alpm                             
 vulkan-intel                                                                  1:26.3.1-2                            alpm                             
 vulkan-mesa-implicit-layers                                                   1:26.3.1-2                            alpm                             
